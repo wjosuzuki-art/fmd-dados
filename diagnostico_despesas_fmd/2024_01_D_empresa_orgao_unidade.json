@@ -1,0 +1,17 @@
+{
+  "url": "https://gateway.apilib.prefeitura.sp.gov.br/sf/sof/v4/despesas?anoDotacao=2024&mesDotacao=1&codEmpresa=1&codOrgao=7&codUnidade=10",
+  "params": {
+    "anoDotacao": "2024",
+    "mesDotacao": "1",
+    "codEmpresa": "1",
+    "codOrgao": "7",
+    "codUnidade": "10"
+  },
+  "resposta": {
+    "fault": {
+      "code": 900901,
+      "message": "Invalid Credentials",
+      "description": "Access failure for API: /sf/sof/v4, version: v4 status: (900901) - Invalid Credentials. Make sure you have given the correct access token"
+    }
+  }
+}

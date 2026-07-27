@@ -1,0 +1,500 @@
+[
+  {
+    "metaDados": {
+      "txtMensagemErro": "",
+      "qtdPaginas": 1,
+      "txtStatus": "OK"
+    },
+    "lstEmpresa": [
+      {
+        "codEmpresa": "00",
+        "nomEmpresa": "CONSOLIDADO GERAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "01",
+        "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "02",
+        "nomEmpresa": "ADMINISTRAÇÃO INDIRETA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "03",
+        "nomEmpresa": "CINEMA E AUDIOVISUAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "04",
+        "nomEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "05",
+        "nomEmpresa": "INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "06",
+        "nomEmpresa": "SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "07",
+        "nomEmpresa": "AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "08",
+        "nomEmpresa": "FUNDO PREVIDENCIÁRIO - FUNPREV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "09",
+        "nomEmpresa": "FUNDO FINANCEIRO - FUNFIN",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "10",
+        "nomEmpresa": "AUTARQUIA HOSPITALAR MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "11",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Leste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "12",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Sudeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "13",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Sul",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "14",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Centro-Oeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "15",
+        "nomEmpresa": "Autoridade Municipal de Limpeza Urbana/FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "16",
+        "nomEmpresa": "FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "17",
+        "nomEmpresa": "Fundação Catavento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "18",
+        "nomEmpresa": "CÂMARA MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "19",
+        "nomEmpresa": "TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "20",
+        "nomEmpresa": "PODER LEGISLATIVO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "21",
+        "nomEmpresa": "PODER EXECUTIVO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "22",
+        "nomEmpresa": "Fundo Especial de Despesas da Câmara",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "23",
+        "nomEmpresa": "FUNDO ESPECIAL DE DESPESAS DO TCMSP",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "24",
+        "nomEmpresa": "CONSOLIDADO TCMSP E FEDTCM",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "25",
+        "nomEmpresa": "CONSOLIDADO CMSP e FECAM",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "26",
+        "nomEmpresa": "CONSOLIDADO COHAB E FMH",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "27",
+        "nomEmpresa": "ADMINISTRAÇÃO DIRETA E FUNDOS",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "28",
+        "nomEmpresa": "ADMINISTRAÇÃO DIRETA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "29",
+        "nomEmpresa": "SÃO PAULO TURISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "30",
+        "nomEmpresa": "SÃO PAULO URBANISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "31",
+        "nomEmpresa": "CONSOLIDADO AMLURB E FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "32",
+        "nomEmpresa": "CONSOLIDADO SPREGULA E FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "33",
+        "nomEmpresa": "CONSOLIDADO FUNPREV E FUNFIN",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "34",
+        "nomEmpresa": "CONSOLIDADO FUNPREV/FUNFIN/IPREM",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "35",
+        "nomEmpresa": "ADMINISTRAÇÃO DIRETA E FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "81",
+        "nomEmpresa": "FUNDO MUNICIPAL DE LIMPEZA URBANA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "83",
+        "nomEmpresa": "COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "85",
+        "nomEmpresa": "FUNDAÇÃO THEATRO MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "91",
+        "nomEmpresa": "Fundo Municipal de Habitação - COHAB",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      }
+    ]
+  },
+  {
+    "metaDados": {
+      "txtMensagemErro": "",
+      "qtdPaginas": 1,
+      "txtStatus": "OK"
+    },
+    "lstEmpresa": [
+      {
+        "codEmpresa": "00",
+        "nomEmpresa": "CONSOLIDADO GERAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "01",
+        "nomEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "02",
+        "nomEmpresa": "ADMINISTRAÇÃO INDIRETA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "03",
+        "nomEmpresa": "CINEMA E AUDIOVISUAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "04",
+        "nomEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "05",
+        "nomEmpresa": "INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "06",
+        "nomEmpresa": "SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "07",
+        "nomEmpresa": "AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "08",
+        "nomEmpresa": "FUNDO PREVIDENCIÁRIO - FUNPREV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "09",
+        "nomEmpresa": "FUNDO FINANCEIRO - FUNFIN",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "10",
+        "nomEmpresa": "AUTARQUIA HOSPITALAR MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "11",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Leste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "12",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Sudeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "13",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Sul",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "14",
+        "nomEmpresa": "Autarquia Hosp. Munic. Regional Centro-Oeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "15",
+        "nomEmpresa": "Autoridade Municipal de Limpeza Urbana/FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "16",
+        "nomEmpresa": "FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "17",
+        "nomEmpresa": "Fundação Catavento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "18",
+        "nomEmpresa": "CÂMARA MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "19",
+        "nomEmpresa": "TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "20",
+        "nomEmpresa": "PODER LEGISLATIVO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "21",
+        "nomEmpresa": "PODER EXECUTIVO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "22",
+        "nomEmpresa": "Fundo Especial de Despesas da Câmara",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "23",
+        "nomEmpresa": "FUNDO ESPECIAL DE DESPESAS DO TCMSP",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "24",
+        "nomEmpresa": "CONSOLIDADO TCMSP E FEDTCM",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "25",
+        "nomEmpresa": "CONSOLIDADO CMSP e FECAM",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "26",
+        "nomEmpresa": "CONSOLIDADO COHAB E FMH",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "27",
+        "nomEmpresa": "ADMINISTRAÇÃO DIRETA E FUNDOS",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "28",
+        "nomEmpresa": "ADMINISTRAÇÃO DIRETA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "29",
+        "nomEmpresa": "SÃO PAULO TURISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "30",
+        "nomEmpresa": "SÃO PAULO URBANISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "31",
+        "nomEmpresa": "CONSOLIDADO AMLURB E FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "32",
+        "nomEmpresa": "CONSOLIDADO SPREGULA E FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "33",
+        "nomEmpresa": "CONSOLIDADO FUNPREV E FUNFIN",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "34",
+        "nomEmpresa": "CONSOLIDADO FUNPREV/FUNFIN/IPREM",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "35",
+        "nomEmpresa": "ADMINISTRAÇÃO DIRETA E FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "81",
+        "nomEmpresa": "FUNDO MUNICIPAL DE LIMPEZA URBANA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "83",
+        "nomEmpresa": "COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "85",
+        "nomEmpresa": "FUNDAÇÃO THEATRO MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codEmpresa": "91",
+        "nomEmpresa": "Fundo Municipal de Habitação - COHAB",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,569 @@
+﻿codUnidade,txtDescricaoUnidade,codigoOrgao,descricaoOrgao,codigoEmpresa,descricaoEmpresa,modifiedMode,usuarioOperacao,_codOrgao_consultado
+10,Autarquia Hospitalar Municipal,01,Autarquia Hospitalar Municipal,10,AUTARQUIA HOSPITALAR MUNICIPAL,5,,01
+22,Secretaria de Infraestrutura Urbana e Obras,01,Autarquia Hospitalar Municipal,10,AUTARQUIA HOSPITALAR MUNICIPAL,5,,01
+84,Fundo Municipal de Saúde,01,Autarquia Hospitalar Municipal,10,AUTARQUIA HOSPITALAR MUNICIPAL,5,,01
+10,Hospital do Servidor Público Municipal,02,Hospital do Servidor Público Municipal,04,HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL,5,,02
+22,Secretaria Municipal de Infraestrutura e Obras,02,Hospital do Servidor Público Municipal,04,HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL,5,,02
+10,Instituto de Previdência Municipal de São Paulo,03,Instituto de Previdência Municipal de São Paulo,05,INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO,5,,03
+20,Fundo Previdenciário - FUNPREV,03,Fundo Previdenciário - FUNPREV,08,FUNDO PREVIDENCIÁRIO - FUNPREV,5,,03
+30,Fundo Financeiro - FUNFIN,03,Fundo Financeiro - FUNFIN,09,FUNDO FINANCEIRO - FUNFIN,5,,03
+10,Instituto de Previdência Municipal de São Paulo,03,Instituto de Previdência Municipal de São Paulo,05,INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO,5,,03
+20,Fundo Previdenciário - FUNPREV,03,Fundo Previdenciário - FUNPREV,08,FUNDO PREVIDENCIÁRIO - FUNPREV,5,,03
+30,Fundo Financeiro - FUNFIN,03,Fundo Financeiro - FUNFIN,09,FUNDO FINANCEIRO - FUNFIN,5,,03
+10,Instituto de Previdência Municipal de São Paulo,03,Instituto de Previdência Municipal de São Paulo,05,INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO,5,,03
+20,Fundo Previdenciário - FUNPREV,03,Fundo Previdenciário - FUNPREV,08,FUNDO PREVIDENCIÁRIO - FUNPREV,5,,03
+30,Fundo Financeiro - FUNFIN,03,Fundo Financeiro - FUNFIN,09,FUNDO FINANCEIRO - FUNFIN,5,,03
+10,Serviço Funerário do Município de São Paulo,04,Serviço Funerário do Município de São Paulo,06,SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SÃO PAULO,5,,04
+10,Autarquia Hospitalar Municipal Regional Leste,05,Autarquia Hospitalar Municipal Regional Leste,11,Autarquia Hosp. Munic. Regional Leste,5,,05
+10,São Paulo Urbanismo,05,São Paulo Urbanismo,30,SÃO PAULO URBANISMO,5,,05
+10,Autarquia Hospitalar Municipal Regional Leste,05,Autarquia Hospitalar Municipal Regional Leste,11,Autarquia Hosp. Munic. Regional Leste,5,,05
+10,São Paulo Urbanismo,05,São Paulo Urbanismo,30,SÃO PAULO URBANISMO,5,,05
+10,Autarquia Hospitalar Municipal Regional Sudeste,06,Autarquia Hospitalar Municipal Regional Sudeste,12,Autarquia Hosp. Munic. Regional Sudeste,5,,06
+10,São Paulo Turismo,06,São Paulo Turismo,29,SÃO PAULO TURISMO,5,,06
+10,Autarquia Hospitalar Municipal Regional Sudeste,06,Autarquia Hospitalar Municipal Regional Sudeste,12,Autarquia Hosp. Munic. Regional Sudeste,5,,06
+10,São Paulo Turismo,06,São Paulo Turismo,29,SÃO PAULO TURISMO,5,,06
+10,Fundo Municipal de Desenvolvimento Social,07,Fundo Municipal de Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,07
+10,Autarquia Hospitalar Municipal Regional Sul,07,Autarquia Hospitalar Municipal Regional Sul,13,Autarquia Hosp. Munic. Regional Sul,5,,07
+83,Companhia Metropolitana de Habitação de São Paulo,07,Fundo Municipal de Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,07
+91,Fundo Municipal de Habitação,07,Fundo Municipal de Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,07
+10,Fundo Municipal de Desenvolvimento Social,07,Fundo Municipal de Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,07
+10,Autarquia Hospitalar Municipal Regional Sul,07,Autarquia Hospitalar Municipal Regional Sul,13,Autarquia Hosp. Munic. Regional Sul,5,,07
+83,Companhia Metropolitana de Habitação de São Paulo,07,Fundo Municipal de Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,07
+91,Fundo Municipal de Habitação,07,Fundo Municipal de Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,07
+10,Fundo Municipal do Idoso,08,Fundo Municipal do Idoso,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,08
+10,Autarquia Municipal de Serviços Auxiliares de Saúde,08,Autarquia Municipal de Serviços Auxiliares de Saúde,14,Autarquia Hosp. Munic. Regional Centro-Oeste,5,,08
+10,Fundo Municipal do Idoso,08,Fundo Municipal do Idoso,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,08
+10,Autarquia Municipal de Serviços Auxiliares de Saúde,08,Autarquia Municipal de Serviços Auxiliares de Saúde,14,Autarquia Hosp. Munic. Regional Centro-Oeste,5,,08
+10,Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,09
+10,Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,18,CÂMARA MUNICIPAL,5,,09
+20,Fundo Especial de Despesas da Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,09
+20,Fundo Especial de Despesas da Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,22,Fundo Especial de Despesas da Câmara,5,,09
+10,Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,09
+10,Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,18,CÂMARA MUNICIPAL,5,,09
+20,Fundo Especial de Despesas da Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,09
+20,Fundo Especial de Despesas da Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,22,Fundo Especial de Despesas da Câmara,5,,09
+10,Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,09
+10,Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,18,CÂMARA MUNICIPAL,5,,09
+20,Fundo Especial de Despesas da Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,09
+20,Fundo Especial de Despesas da Câmara Municipal de São Paulo,09,Câmara Municipal de São Paulo,22,Fundo Especial de Despesas da Câmara,5,,09
+10,Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,10
+10,Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,19,TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO,5,,10
+20,Fundo Esp. de Desp. do Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,10
+20,Fundo Esp. de Desp. do Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,23,FUNDO ESPECIAL DE DESPESAS DO TCMSP,5,,10
+10,Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,10
+10,Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,19,TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO,5,,10
+20,Fundo Esp. de Desp. do Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,10
+20,Fundo Esp. de Desp. do Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,23,FUNDO ESPECIAL DE DESPESAS DO TCMSP,5,,10
+10,Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,10
+10,Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,19,TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO,5,,10
+20,Fundo Esp. de Desp. do Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,10
+20,Fundo Esp. de Desp. do Tribunal de Contas do Município de São Paulo,10,Tribunal de Contas do Município de São Paulo,23,FUNDO ESPECIAL DE DESPESAS DO TCMSP,5,,10
+06,Secretaria do Governo Municipal - São Paulo Turismo,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+10,Gabinete do Prefeito,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+13,Secretaria Executiva de Gestão,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+14,Secretaria Executiva de Comunicação,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+20,Gabinete do Secretário,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+28,Administração dos Assuntos do Turismo,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+30,Supervisão Geral da Junta do Serviço Militar,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+50,Administração do Edifício Matarazzo,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+60,Casa Civil,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+70,Administração dos Assuntos do Secretário Especial de Comunicação,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+80,Secretaria Especial de Desburocratização,11,Secretaria do Governo Municipal,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,11
+10,Gabinete do Secretário,12,Secretaria Municipal das Subprefeituras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,12
+11,Superintendência das Usinas de Asfalto,12,Secretaria Municipal das Subprefeituras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,12
+12,Supervisão Geral de Transportes Internos,12,Secretaria Municipal das Subprefeituras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,12
+13,Administração da Supervisão de Abastecimento,12,Secretaria Municipal das Subprefeituras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,12
+81,SMSUB/Autoridade Municipal de Limpeza Urbana – AMLURB,12,Secretaria Municipal das Subprefeituras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,12
+10,Gabinete do Secretário,13,Secretaria Municipal de Gestão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,13
+20,Departamento de Informações,13,Secretaria Municipal de Gestão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,13
+30,Departamento de Planejamento e Normatização Territorial,13,Secretaria Municipal de Gestão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,13
+40,Departamento de Economia e Orçamento,13,Secretaria Municipal de Gestão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,13
+10,Gabinete do Secretário,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+20,Departamento do Cadastro Setorial,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+30,Departamento de Parcelamento do Solo e Intervenções Urbanas,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+40,Departamento de Aprovação das Edificações,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+50,Departamento de Controle do Uso de Imóveis,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+60,Superintendência de Habitação Popular,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+70,Departamento de Regularização de Parcelamento do Solo,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+83,Companhia Metropolitana de Habitação de São Paulo,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+90,Secretaria Executiva do Programa Mananciais,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+91,Fundo Municipal de Habitação,14,Secretaria Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,14
+10,Gabinete do Secretário,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+10,Cinema e Audiovisual de São Paulo,15,Cinema e Audiovisual de São Paulo,03,CINEMA E AUDIOVISUAL DE SÃO PAULO,5,,15
+11,Coordenadoria do Govêrno Eletrônico e Gestão da Informação,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+12,Departamento da Merenda Escolar,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+30,Departamento de Recursos Humanos,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+40,Departamento Administrativo-Financeiro,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+50,Departamento de Gestão de Suprimentos e Serviços,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+60,Divisão da Gráfica Municipal,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+70,Departamento de Saúde do Trabalhador Municipal,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+10,Gabinete do Secretário,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+10,Cinema e Audiovisual de São Paulo,15,Cinema e Audiovisual de São Paulo,03,CINEMA E AUDIOVISUAL DE SÃO PAULO,5,,15
+11,Coordenadoria do Govêrno Eletrônico e Gestão da Informação,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+12,Departamento da Merenda Escolar,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+30,Departamento de Recursos Humanos,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+40,Departamento Administrativo-Financeiro,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+50,Departamento de Gestão de Suprimentos e Serviços,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+60,Divisão da Gráfica Municipal,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+70,Departamento de Saúde do Trabalhador Municipal,15,"Secretaria Municipal  de Modernização, Gestão e Desburocratização",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,15
+06,SME - SPTURIS,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+10,Gabinete do Secretário,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+11,Diretoria Regional de Educação Ipiranga,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+12,Diretoria Regional de Educação Jaçanã/Tremembé,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+13,Diretoria Regional de Educação Freguesia/Brasilândia,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+14,Diretoria Regional de Educação Pirituba,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+15,Diretoria Regional de Educação Campo Limpo,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+16,Diretoria Regional de Educação Capela do Socorro,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+17,Diretoria Regional de Educação Penha,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+18,Diretoria Regional de Educação Santo Amaro,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+19,Diretoria Regional de Educação Itaquera,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+20,Diretoria Regional de Educação São Miguel,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+21,Diretoria Regional de Educação Guaianases,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+22,Diretoria Regional de Educação Butantã,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+23,Diretoria Regional de Educação São Mateus,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+24,Coordenadoria de Alimentação Escolar,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+31,Núcleo de Ação Educativa - NAE 1   IP/JA/SA/SE/VM,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+32,Núcleo de Ação Educativa - NAE 2  ST/MG/JT,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+33,Núcleo de Ação Educativa - NAE 3   CV/FO/SE,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+34,Núcleo de Ação Educativa - NAE 4   LA/PJ/PR,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+35,Núcleo de Ação Educativa  - NAE 5   CL,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+36,Núcleo de Ação Educativa - NAE 6   CS/SA,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+37,Núcleo de Ação Educativa  - NAE 7   PE/MO/AF,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+38,Núcleo de Ação Educativa  - NAE 8   VP,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+39,Núcleo de Ação Educativa  - NAE 9   IQ/PE,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+40,Núcleo de Ação Educativa - NAE 10   MP/EM,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+41,Núcleo de Ação Educativa  - NAE 11-G,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+42,Núcleo de Ação Educativa - NAE 12   BT/LA/PI,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+43,Núcleo de Ação Educativa - NAE 13   SM/AF/IQ,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+80,SME - FUNDATEC,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+83,SME - COHAB,16,Secretaria Municipal de Educação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,16
+10,Gabinete do Secretário,17,Secretaria Municipal da Fazenda,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,17
+20,Fundo Esp. p Modernização da Adm.Tributária e Adm.Fazendária do Mun SP,17,Secretaria Municipal da Fazenda,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,17
+30,Departamento da Contadoria,17,Secretaria Municipal da Fazenda,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,17
+40,Departamento Jurídico Fiscal,17,Secretaria Municipal da Fazenda,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,17
+50,Departamento de Rendas Imobiliárias,17,Secretaria Municipal da Fazenda,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,17
+60,Departamento de Rendas Mobiliárias,17,Secretaria Municipal da Fazenda,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,17
+70,Departamento do Tesouro,17,Secretaria Municipal da Fazenda,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,17
+10,Gabinete do Secretário,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+11,Posto Avançado Centro,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+12,Posto Avançado Butantã,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+13,Posto Avançado Ipiranga/Jabaquara/Vila Prudente,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+14,Posto Avançado Tatuapé/Penha/Moóca,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+15,Posto Avançado Itaquera/Guaianases,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+16,Posto Avançado São Miguel,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+17,Posto Avançado Nossa Senhora do Ó/Santana/Tucuruvi,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+18,Posto Avançado Pirituba/Perus,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+19,Posto Avançado Santo Amaro,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+20,Posto Avançado Campo Limpo,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+21,Hosp. Munic. Maternidade Escola Dr. Mário de Moraes Altenfelder Silva,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+22,Coordenação de Vigilância em Saúde,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+23,Coordenadoria Regional de Saúde Norte,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+24,Coordenadoria Regional de Saúde Sul,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+25,Coordenadoria Regional de Saúde Sudeste,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+26,Coordenadoria Regional de Saúde Leste,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+27,Coordenadoria Regional de Saúde Centro - Oeste,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+28,Coordenadoria Regional de Saúde Centro,18,Secretaria Municipal da Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,18
+10,Gabinete do Secretário,19,Secretaria Municipal de Esportes e Lazer,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,19
+20,"Departamento de Promoções Esportivas, Lazer e Recreação",19,Secretaria Municipal de Esportes e Lazer,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,19
+30,Departamento de Unidades Educacionais,19,Secretaria Municipal de Esportes e Lazer,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,19
+40,Departamento de Unidades Esportivas Autônomas,19,Secretaria Municipal de Esportes e Lazer,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,19
+73,Secretaria Executiva de Lazer,19,Secretaria Municipal de Esportes e Lazer,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,19
+10,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,20,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,20
+11,Administração do Departamento de Transportes Públicos - DTP,20,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,20
+12,Administração do Departamento do Sistema Viário - DSV,20,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,20
+20,Departamento de Operações do Sistema Viário,20,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,20
+30,Departamento de Transportes Internos,20,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,20
+40,Departamento de Transportes Públicos,20,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,20
+50,Secretaria Executiva de Mobilidade e Trânsito - SEMTRA,20,Secretaria Municipal de Mobilidade Urbana e Transporte - SMT,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,20
+10,Procuradoria Geral do Município,21,Procuradoria Geral do Município - PGM,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,21
+15,Procuradoria Geral do Município,21,Procuradoria Geral do Município - PGM,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,21
+20,Departamento de Desapropriações,21,Procuradoria Geral do Município - PGM,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,21
+30,Departamento Judicial,21,Procuradoria Geral do Município - PGM,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,21
+40,Departamento Patrimonial,21,Procuradoria Geral do Município - PGM,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,21
+50,Departamento Fiscal,21,Procuradoria Geral do Município - PGM,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,21
+60,Departamento de Procedimentos Diciplinares,21,Procuradoria Geral do Município - PGM,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,21
+10,Gabinete do Secretário,22,Secretaria Municipal de Infraestrutura Urbana e Obras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,22
+20,Departamento de Iluminação Pública,22,Secretaria Municipal de Infraestrutura Urbana e Obras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,22
+30,Departamento de Controle de Uso de Vias Públicas,22,Secretaria Municipal de Infraestrutura Urbana e Obras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,22
+40,Superintendência de Obras Viárias,22,Secretaria Municipal de Infraestrutura Urbana e Obras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,22
+50,Superintendência de Projetos Viários,22,Secretaria Municipal de Infraestrutura Urbana e Obras,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,22
+10,Gabinete do Secretário,23,Secretaria Municipal de Inovação e Tecnologia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,23
+20,Departamento de Edificações,23,Secretaria Municipal de Inovação e Tecnologia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,23
+40,Departamento de Limpeza Urbana,23,Secretaria Municipal de Inovação e Tecnologia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,23
+50,Supervisão Geral de Abastecimento,23,Secretaria Municipal de Inovação e Tecnologia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,23
+10,Gabinete do Secretário,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+11,Supervisão Geral de Administração,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+12,Supervisão Geral de Desenvolvimento de Pessoal,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+13,Supervisão Geral de Planejamento e Controle,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+20,Supervisão Regional de Assistência Social de Campo Limpo,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+21,Coordenadoria de Assistência Social - CAS Sudeste,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+22,Coordenadoria de Assistência Social - CAS Leste,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+23,Coordenadoria de Assistência Social - CAS Centro-Oeste,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+24,Coordenadoria de Assistência Social - CAS Sul,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+25,Coordenadoria de Assistência Social - CAS Norte,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+30,Supervisão Regional de Assistência Social da Freguesia do Ó,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+40,Supervisão Regional de Assistência Social de São Miguel Paulista,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+50,Supervisão Regional de Assistência Social da Sé/Lapa,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+60,Supervisão Regional de Assistência Social de Vila Prudente,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+83,Companhia Metropolitana de Habitação de São Paulo,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,24
+06,SÃO PAULO TURISMO,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+10,Gabinete do Secretário,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+11,Departamento da Biblioteca Mario de Andrade,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+12,Centro Cultural da Juventude,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+15,SMC / SPCINE,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+20,Departamento de Teatro,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+30,Coordenadoria de Bibliotecas Municipais,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+40,Departamento de Bibliotecas Infanto-Juvenis,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+50,"Coordenadoria de Museus, Arquivo e Patrimônio Histórico",25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+60,Coordenadoria de Centros Culturais Municipais,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+70,Coordenadoria de Fomento e Cidadania Cultural,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+80,Departamento do Teatro Municipal,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+83,SMC - COHAB,25,Secretaria Municipal de Cultura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,25
+10,Gabinete do Secretário,26,Secretaria Municipal de Justiça,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,26
+20,Departamento de Inspeção Municipal de Alimentos,26,Secretaria Municipal de Justiça,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,26
+30,Supervisão Geral de Operações,26,Secretaria Municipal de Justiça,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,26
+40,Departamento de Apoio e Desenvolvimento,26,Secretaria Municipal de Justiça,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,26
+50,Supervisão Geral de Abastecimento,26,Secretaria Municipal de Justiça,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,26
+60,Departamento de Alimentação e Suprimento,26,Secretaria Municipal de Justiça,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,26
+10,Gabinete do Secretário,27,Secretaria Municipal do Verde e do Meio Ambiente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,27
+20,Coordenadoria de Guarda Civil Metropolitana,27,Secretaria Municipal do Verde e do Meio Ambiente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,27
+30,Departamento de Controle da Qualidade Ambiental,27,Secretaria Municipal do Verde e do Meio Ambiente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,27
+40,Departamento de Educação Ambiental e Planejamento,27,Secretaria Municipal do Verde e do Meio Ambiente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,27
+50,Departamento de Parques e Áreas Verdes,27,Secretaria Municipal do Verde e do Meio Ambiente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,27
+09,Recursos Superv. pela Câmara Municipal,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+10,Recursos Superv. pelo Tribunal de Contas,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+11,Recursos Superv. pelo Gabinete do Prefeito,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+12,Recursos Superv. pela Secretaria Municipal das Subprefeituras,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+13,Recursos Superv. pela Secretaria Municipal de Gestão   ,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+14,Recursos Superv. pela Secretaria Municipal de Habitação,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+15,Recursos Superv. pela Secretaria Municipal de Gestão,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+16,Recursos Superv. pela Secretaria Municipal de Educação,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+17,Recursos Superv. pela Secretaria Municipal da Fazenda,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+18,Recursos Superv. pela Secretaria Municipal da Saúde/Fundo Mun.de Saúde,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+19,Recursos Superv. pela Secr. Municipal de Esportes e Lazer,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+20,Recursos Superv. pela Secretaria Municipal de Transportes,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+21,Recursos Superv. pela Procuradoria Geral do Município,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+22,Recursos Superv. pela Secretaria Mun.de Infraestrutura Urbana e Obras,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+23,Recursos Superv. pela Secretaria Municipal de Serviços,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+24,Recursos Superv. pela Secr.Municipal de Assistência e Desenv. Social,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+25,Recursos Superv. pela Secretaria Municipal de Cultura,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+26,Recursos Superv. pela Secr. Municipal de Abastecimento,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+27,Recursos Superv. pela Secr.Municipal do Verde e do Meio Ambiente,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+29,Recursos Superv. pela Secretaria Municipal Urbanismo e Licenciamento,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+30,Recursos Superv. pela Secretaria Munic de Desenv Econ e Trabalho,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+31,Recursos Superv. pela Secretaria Municipal de Relações Internacionais,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+32,Recursos Superv. pela Ouvidoria Geral do Município de São Paulo,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+33,Recursos Superv. pela Secretaria Especial para Participação e Parceria,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+34,Recursos Superv. pela Secretaria Especial para Participação e Parceria,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+36,Recursos Superv. pela Secr.Espec.da Pessoa c/Deficiência e Mob.Reduzid,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+38,Recursos Superv. pela Secretaria Municipal de Segurança Urbana,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+41,Recursos Superv. pela Subprefeitura Perus,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+42,Recursos Superv. pela Subprefeitura Pirituba,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+43,Recursos Superv. pela Subprefeitura Freguesia/Brasilândia,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+44,Recursos Superv. pela Subprefeitura Casa Verde/Cachoeirinha,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+45,Recursos Superv. pela Subprefeitura Santana/Tucuruvi,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+46,Recursos Superv. pela Subprefeitura Jaçanã/Tremembé,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+47,Recursos Superv. pela Subprefeitura Vila Maria/Vila Guilherme,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+48,Recursos Superv. pela Subprefeitura Lapa,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+49,Recursos Superv. pela Subprefeitura Sé,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+50,Recursos Superv. pela Subprefeitura Butantã,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+51,Recursos Superv. pela Subprefeitura Pinheiros,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+52,Recursos Superv. pela Subprefeitura Vila Mariana,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+53,Recursos Superv. pela Subprefeitura Ipiranga,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+54,Recursos Superv. pela Subprefeitura Santo Amaro,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+55,Recursos Superv. pela Subprefeitura Jabaquara,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+56,Recursos Superv. pela Subprefeitura Cidade Ademar,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+57,Recursos Superv. pela Subprefeitura Campo Limpo,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+58,Recursos Superv. pela Subprefeitura M Boi Mirim,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+59,Recursos Superv. pela Subprefeitura Capela do Socorro,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+60,Recursos Superv. pela Subprefeitura Parelheiros,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+61,Recursos Superv. pela Subprefeitura Penha,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+62,Recursos Superv. pela Subprefeitura Ermelino Matarazzo,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+63,Recursos Superv. pela Subprefeitura São Miguel,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+64,Recursos Superv. pela Subprefeitura Itaim Paulista,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+65,Recursos Superv. pela Subprefeitura Moóca,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+66,Recursos Superv. pela Subprefeitura Aricanduva/Formosa/Carrão,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+67,Recursos Superv. pela Subprefeitura Itaquera,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+68,Recursos Superv. pela Subprefeitura Guaianazes,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+69,Recursos Superv. pela Subprefeitura Vila Prudente/Sapopemba,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+70,Recursos Superv. pela Subprefeitura São Mateus,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+71,Recursos Superv. pela Subprefeitura Cidade Tiradentes,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+89,"Recursos Superv. pelo Fundo Municipal de Esportes,Lazer e Recreação",28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+90,Recursos Superv.p/Fundo Munic.dos Direitos da Criança e do Adolescente,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+91,Recursos Superv. pelo Fundo Municipal de Habitação,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+92,Recursos Superv.p/Fundu Mun.Sist.Corred.Segregados Exclus.p/Tráfego,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+93,Recursos Superv. pelo Fundo Municipal de Assistência Social,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+94,Recursos Superv. p/ Fundo Espec.do Meio Ambiente e Desenv. Sustentável,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+95,Recursos Superv. p/Fundo Especial de Promoção de Atividades Culturais,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+96,Recursos Superv.pelo Fundo Municipal de Turismo,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+97,Recursos Superv.p/Fundo de Prot.Patr.Cultural e Ambiental Paulistano,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+98,Recursos Superv. pelo Fundo de Desenvolvimento Urbano,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+99,Recursos Superv.pelo Fundo Municipal de Iluminação Pública,28,Encargos Gerais do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,28
+05,São Paulo Urbanismo / Operações Urbanas,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+10,Secretaria Municipal de Urbanismo e Licenciamento/Gabinete,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+20,Operação Urbana Consorciada Água Branca,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+30,Operação Urbana Consorciada Água Espraiada,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+40,Operação Urbana Centro,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+50,Operação Urbana Consorciada Faria Lima,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+60,OPERAÇÃO URBANA CONSORCIADA BAIRROS DO TAMANDUATEI,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+83,COHAB / Operações Urbanas,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+91,FMH / Operações Urbanas,29,Secretaria Municipal de Urbanismo e Licenciamento,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,29
+10,Gabinete do Secretário,30,Secretaria Municipal de Desenvolvimento Econômico e Trabalho,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,30
+10,Gabinete do Secretário,31,Secretaria Municipal de Planejamento e Eficiência,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,31
+10,Gabinete da Controladoria Geral,32,Controladoria Geral do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,32
+10,Gabinete do Secretário,33,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,33
+10,Agência Reg. de Serv. Públicos do Mun de São Paulo,33,Agência Reg. de Serv. Públicos do Mun de São Paulo        ,07,AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO,5,,33
+12,SECRETARIA MUNICIPAL DAS SUBPREFEITURAS,33,Agência Reg. de Serv. Públicos do Mun de São Paulo        ,07,AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO,5,,33
+20,Guarda Civil Metropolitana,33,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,33
+30,Corregedoria Geral da Guarda Civil Metropolitana,33,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,33
+81,Autoridade Municipal de Limpeza Urbana - AMLURB,33,Agência Reg. de Serv. Públicos do Mun de São Paulo        ,07,AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO,5,,33
+10,Gabinete do Secretário,33,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,33
+10,Agência Reg. de Serv. Públicos do Mun de São Paulo,33,Agência Reg. de Serv. Públicos do Mun de São Paulo        ,07,AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO,5,,33
+12,SECRETARIA MUNICIPAL DAS SUBPREFEITURAS,33,Agência Reg. de Serv. Públicos do Mun de São Paulo        ,07,AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO,5,,33
+20,Guarda Civil Metropolitana,33,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,33
+30,Corregedoria Geral da Guarda Civil Metropolitana,33,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,33
+81,Autoridade Municipal de Limpeza Urbana - AMLURB,33,Agência Reg. de Serv. Públicos do Mun de São Paulo        ,07,AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO,5,,33
+10,Gabinete do Secretário,34,Secretaria Municipal de Direitos Humanos e Cidadania,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,34
+20,Fundo Municipal de Combate a Fome,34,Secretaria Municipal de Direitos Humanos e Cidadania,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,34
+10,Fundo Municipal de Defesa do Consumidor,35,Fundo Municipal de Defesa do Consumidor,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,35
+33,Segurança Urbana - Lei N. 13.396/02,35,Fundo Municipal de Defesa do Consumidor,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,35
+10,Gabinete do Secretário,36,Secretaria Municipal da Pessoa com Deficiência,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,36
+10,Gabinete do Secretário,36,Autoridade Municipal de Limpeza Urbana / Fundo Mun. de Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,36
+10,Gabinete do Secretário,36,Secretaria Municipal da Pessoa com Deficiência,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,36
+10,Gabinete do Secretário,36,Autoridade Municipal de Limpeza Urbana / Fundo Mun. de Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,36
+05,São Paulo Urbanismo,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+10,Gabinete do Secretário,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+20,Operação Urbana Água Branca,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+30,Operação Urbana Água Espraiada,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+40,Operação Urbana Centro,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+50,Operação Urbana Faria Lima,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+83,Companhia Metropolitana de Habitação de São Paulo,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+91,Fundo Municipal de Habitação,37,Secretaria Municipal de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,37
+10,Gabinete do Secretário,38,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,38
+83,COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO,38,Secretaria Municipal de Segurança Urbana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,38
+10,Fundo Especial da Procuradoria Geral do Município,39,Fundo Especial da Procuradoria Geral do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,39
+20,Centro de Estudos Jurídicos Lucia Maria Moraes Ribeiro de Mendonça,39,Fundo Especial da Procuradoria Geral do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,39
+30,Escola Superior de Direito Público Municipal,39,Fundo Especial da Procuradoria Geral do Município,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,39
+10,Gabinete do Secretário,40,Secretaria Municipal de Desestatização e Parcerias,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,40
+10,Administração da Subprefeitura,41,Subprefeitura Perus/Anhanguera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,41
+20,Coordenadoria de Educação,41,Subprefeitura Perus/Anhanguera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,41
+30,Coordenadoria de Saúde,41,Subprefeitura Perus/Anhanguera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,41
+40,Coordenadoria de Ação Social e Desenvolvimento,41,Subprefeitura Perus/Anhanguera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,41
+10,Administração da Subprefeitura,42,Subprefeitura Pirituba/Jaraguá,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,42
+20,Coordenadoria de Educação,42,Subprefeitura Pirituba/Jaraguá,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,42
+30,Coordenadoria de Saúde,42,Subprefeitura Pirituba/Jaraguá,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,42
+40,Coordenadoria de Ação Social e Desenvolvimento,42,Subprefeitura Pirituba/Jaraguá,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,42
+10,Administração da Subprefeitura,43,Subprefeitura Freguesia/Brasilândia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,43
+20,Coordenadoria de Educação,43,Subprefeitura Freguesia/Brasilândia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,43
+30,Coordenadoria de Saúde,43,Subprefeitura Freguesia/Brasilândia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,43
+40,Coordenadoria de Ação Social e Desenvolvimento,43,Subprefeitura Freguesia/Brasilândia,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,43
+10,Administração da Subprefeitura,44,Subprefeitura Casa Verde/Limão/Cachoeirinha ,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,44
+20,Coordenadoria de Educação,44,Subprefeitura Casa Verde/Limão/Cachoeirinha ,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,44
+30,Coordenadoria de Saúde,44,Subprefeitura Casa Verde/Limão/Cachoeirinha ,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,44
+40,Coordenadoria de Ação Social e Desenvolvimento,44,Subprefeitura Casa Verde/Limão/Cachoeirinha ,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,44
+10,Administração da Subprefeitura,45,Subprefeitura Santana/Tucuruvi,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,45
+20,Coordenadoria de Educação,45,Subprefeitura Santana/Tucuruvi,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,45
+30,Coordenadoria de Saúde,45,Subprefeitura Santana/Tucuruvi,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,45
+40,Coordenadoria de Ação Social e Desenvolvimento,45,Subprefeitura Santana/Tucuruvi,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,45
+10,Administração da Subprefeitura,46,Subprefeitura Jaçanã/Tremembé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,46
+20,Coordenadoria de Educação,46,Subprefeitura Jaçanã/Tremembé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,46
+30,Coordenadoria de Saúde,46,Subprefeitura Jaçanã/Tremembé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,46
+40,Coordenadoria de Ação Social e Desenvolvimento,46,Subprefeitura Jaçanã/Tremembé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,46
+10,Administração da Subprefeitura,47,Subprefeitura Vila Maria/Vila Guilherme,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,47
+20,Coordenadoria de Educação,47,Subprefeitura Vila Maria/Vila Guilherme,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,47
+30,Coordenadoria de Saúde,47,Subprefeitura Vila Maria/Vila Guilherme,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,47
+40,Coordenadoria de Ação Social e Desenvolvimento,47,Subprefeitura Vila Maria/Vila Guilherme,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,47
+10,Administração da Subprefeitura,48,Subprefeitura Lapa,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,48
+20,Coordenadoria de Educação,48,Subprefeitura Lapa,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,48
+30,Coordenadoria de Saúde,48,Subprefeitura Lapa,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,48
+40,Coordenadoria de Ação Social e Desenvolvimento,48,Subprefeitura Lapa,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,48
+83,SUB-LAPA / COHAB,48,Subprefeitura Lapa,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,48
+10,Administração da Subprefeitura,49,Subprefeitura Sé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,49
+20,Coordenadoria de Educação,49,Subprefeitura Sé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,49
+30,Coordenadoria de Saúde,49,Subprefeitura Sé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,49
+40,Coordenadoria de Ação Social e Desenvolvimento,49,Subprefeitura Sé,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,49
+10,Administração da Subprefeitura,50,Subprefeitura Butantã,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,50
+20,Coordenadoria de Educação,50,Subprefeitura Butantã,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,50
+30,Coordenadoria de Saúde,50,Subprefeitura Butantã,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,50
+40,Coordenadoria de Ação Social e Desenvolvimento,50,Subprefeitura Butantã,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,50
+10,Administração da Subprefeitura,51,Subprefeitura Pinheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,51
+20,Coordenadoria de Educação,51,Subprefeitura Pinheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,51
+30,Coordenadoria de Saúde,51,Subprefeitura Pinheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,51
+40,Coordenadoria de Ação Social e Desenvolvimento,51,Subprefeitura Pinheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,51
+10,Administração da Subprefeitura,52,Subprefeitura Vila Mariana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,52
+20,Coordenadoria de Educação,52,Subprefeitura Vila Mariana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,52
+30,Coordenadoria de Saúde,52,Subprefeitura Vila Mariana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,52
+40,Coordenadoria de Ação Social e Desenvolvimento,52,Subprefeitura Vila Mariana,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,52
+10,Administração da Subprefeitura,53,Subprefeitura Ipiranga,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,53
+20,Coordenadoria de Educação,53,Subprefeitura Ipiranga,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,53
+30,Coordenadoria de Saúde,53,Subprefeitura Ipiranga,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,53
+40,Coordenadoria de Ação Social e Desenvolvimento,53,Subprefeitura Ipiranga,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,53
+10,Administração da Subprefeitura,54,Subprefeitura Santo Amaro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,54
+20,Coordenadoria de Educação,54,Subprefeitura Santo Amaro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,54
+30,Coordenadoria de Saúde,54,Subprefeitura Santo Amaro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,54
+40,Coordenadoria de Ação Social e Desenvolvimento,54,Subprefeitura Santo Amaro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,54
+10,Administração da Subprefeitura,55,Subprefeitura Jabaquara,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,55
+20,Coordenadoria de Educação,55,Subprefeitura Jabaquara,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,55
+30,Coordenadoria de Saúde,55,Subprefeitura Jabaquara,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,55
+40,Coordenadoria de Ação Social e Desenvolvimento,55,Subprefeitura Jabaquara,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,55
+10,Administração da Subprefeitura,56,Subprefeitura Cidade Ademar,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,56
+20,Coordenadoria de Educação,56,Subprefeitura Cidade Ademar,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,56
+30,Coordenadoria de Saúde,56,Subprefeitura Cidade Ademar,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,56
+40,Coordenadoria de Ação Social e Desenvolvimento,56,Subprefeitura Cidade Ademar,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,56
+10,Administração da Subprefeitura,57,Subprefeitura Campo Limpo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,57
+20,Coordenadoria de Educação,57,Subprefeitura Campo Limpo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,57
+30,Coordenadoria de Saúde,57,Subprefeitura Campo Limpo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,57
+40,Coordenadoria de Ação Social e Desenvolvimento,57,Subprefeitura Campo Limpo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,57
+10,Administração da Subprefeitura,58,Subprefeitura M'Boi Mirim,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,58
+20,Coordenadoria de Educação,58,Subprefeitura M'Boi Mirim,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,58
+30,Coordenadoria de Saúde,58,Subprefeitura M'Boi Mirim,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,58
+40,Coordenadoria de Ação Social e Desenvolvimento,58,Subprefeitura M'Boi Mirim,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,58
+10,Administração da Subprefeitura,59,Subprefeitura Capela do Socorro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,59
+20,Coordenadoria de Educação,59,Subprefeitura Capela do Socorro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,59
+30,Coordenadoria de Saúde,59,Subprefeitura Capela do Socorro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,59
+40,Coordenadoria de Ação Social e Desenvolvimento,59,Subprefeitura Capela do Socorro,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,59
+10,Administração da Subprefeitura,60,Subprefeitura Parelheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,60
+20,Coordenadoria de Educação,60,Subprefeitura Parelheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,60
+30,Coordenadoria de Saúde,60,Subprefeitura Parelheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,60
+40,Coordenadoria de Ação Social e Desenvolvimento,60,Subprefeitura Parelheiros,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,60
+10,Administração da Subprefeitura,61,Subprefeitura Penha,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,61
+20,Coordenadoria de Educação,61,Subprefeitura Penha,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,61
+30,Coordenadoria de Saúde,61,Subprefeitura Penha,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,61
+40,Coordenadoria de Ação Social e Desenvolvimento,61,Subprefeitura Penha,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,61
+10,Administração da Subprefeitura,62,Subprefeitura Ermelino Matarazzo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,62
+20,Coordenadoria de Educação,62,Subprefeitura Ermelino Matarazzo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,62
+30,Coordenadoria de Saúde,62,Subprefeitura Ermelino Matarazzo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,62
+40,Coordenadoria de Ação Social e Desenvolvimento,62,Subprefeitura Ermelino Matarazzo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,62
+10,Administração da Subprefeitura,63,Subprefeitura São Miguel Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,63
+20,Coordenadoria de Educação,63,Subprefeitura São Miguel Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,63
+30,Coordenadoria de Saúde,63,Subprefeitura São Miguel Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,63
+40,Coordenadoria de Ação Social e Desenvolvimento,63,Subprefeitura São Miguel Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,63
+10,Administração da Subprefeitura,64,Subprefeitura Itaim Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,64
+20,Coordenadoria de Educação,64,Subprefeitura Itaim Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,64
+30,Coordenadoria de Saúde,64,Subprefeitura Itaim Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,64
+40,Coordenadoria de Ação Social e Desenvolvimento,64,Subprefeitura Itaim Paulista,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,64
+10,Administração da Subprefeitura,65,Subprefeitura Mooca,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,65
+20,Coordenadoria de Educação,65,Subprefeitura Mooca,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,65
+30,Coordenadoria de Saúde,65,Subprefeitura Mooca,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,65
+40,Coordenadoria de Ação Social e Desenvolvimento,65,Subprefeitura Mooca,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,65
+83,COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO,65,Subprefeitura Mooca,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,65
+10,Administração da Subprefeitura,66,Subprefeitura Aricanduva/Formosa/Carrão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,66
+20,Coordenadoria de Educação,66,Subprefeitura Aricanduva/Formosa/Carrão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,66
+30,Coordenadoria de Saúde,66,Subprefeitura Aricanduva/Formosa/Carrão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,66
+40,Coordenadoria de Ação Social e Desenvolvimento,66,Subprefeitura Aricanduva/Formosa/Carrão,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,66
+10,Administração da Subprefeitura,67,Subprefeitura Itaquera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,67
+20,Coordenadoria de Educação,67,Subprefeitura Itaquera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,67
+30,Coordenadoria de Saúde,67,Subprefeitura Itaquera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,67
+40,Coordenadoria de Ação Social e Desenvolvimento,67,Subprefeitura Itaquera,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,67
+10,Administração da Subprefeitura,68,Subprefeitura de Guaianases,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,68
+20,Coordenadoria de Educação,68,Subprefeitura de Guaianases,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,68
+30,Coordenadoria de Saúde,68,Subprefeitura de Guaianases,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,68
+40,Coordenadoria de Ação Social e Desenvolvimento,68,Subprefeitura de Guaianases,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,68
+10,Administração da Subprefeitura,69,Subprefeitura de Vila Prudente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,69
+20,Coordenadoria de Educação,69,Subprefeitura de Vila Prudente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,69
+30,Coordenadoria de Saúde,69,Subprefeitura de Vila Prudente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,69
+40,Coordenadoria de Ação Social e Desenvolvimento,69,Subprefeitura de Vila Prudente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,69
+10,Administração da Subprefeitura,70,Subprefeitura São Mateus,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,70
+20,Coordenadoria de Educação,70,Subprefeitura São Mateus,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,70
+30,Coordenadoria de Saúde,70,Subprefeitura São Mateus,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,70
+40,Coordenadoria de Ação Social e Desenvolvimento,70,Subprefeitura São Mateus,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,70
+10,Administração da Subprefeitura,71,Subprefeitura Cidade Tiradentes,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,71
+20,Coordenadoria de Educação,71,Subprefeitura Cidade Tiradentes,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,71
+30,Coordenadoria de Saúde,71,Subprefeitura Cidade Tiradentes,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,71
+40,Coordenadoria de Ação Social e Desenvolvimento,71,Subprefeitura Cidade Tiradentes,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,71
+10,Administração da Subprefeitura,72,Subprefeitura Sapopemba,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,72
+10,Gabinete do Secretário,73,Secretaria Municipal de Relações Internacionais,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,73
+05,São Paulo Urbanismo,74,Secretaria Municipal de Turismo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,74
+10,Secretaria Municipal de Turismo,74,Secretaria Municipal de Turismo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,74
+10,Fundo Municipal de Parques,75,Fundo Municipal de Parques,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,75
+10,Fundo Especial de Despesas da Câmara Municipal ,76,Fundo Especial de Despesas da Câmara Municipal de São Paulo,22,Fundo Especial de Despesas da Câmara,5,,76
+10,Fundo Especial de Despesas do Tribunal de Contas,77,Fundo Especial de Despesas do Tribunal de Contas ,23,FUNDO ESPECIAL DE DESPESAS DO TCMSP,5,,77
+10,Gabinete do Secretário,78,Fundo de Abastecimento Alimentar de São Paulo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,78
+10,Gabinete do Secretário,79,Secretaria Municipal de Políticas para as Mulheres,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,79
+10,"Fundação Paulistana de Educação, Tecnologia e Cultura",80,"Fundação Paulistana de Educação, Tecnologia e Cultura",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,80
+10,Fundação Paulistana de Educação Tecnologia e Cultura,80,Fundação Paulistana de Educação Tecnologia e Cultura,16,FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA,5,,80
+22,Secretaria Municipal de Infraestrutura Urbana e Obras,80,Fundação Paulistana de Educação Tecnologia e Cultura,16,FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA,5,,80
+30,Secretaria Municipal de Desenvolvimento Econômico e Trabalho,80,Fundação Paulistana de Educação Tecnologia e Cultura,16,FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA,5,,80
+10,"Fundação Paulistana de Educação, Tecnologia e Cultura",80,"Fundação Paulistana de Educação, Tecnologia e Cultura",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,80
+10,Fundação Paulistana de Educação Tecnologia e Cultura,80,Fundação Paulistana de Educação Tecnologia e Cultura,16,FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA,5,,80
+22,Secretaria Municipal de Infraestrutura Urbana e Obras,80,Fundação Paulistana de Educação Tecnologia e Cultura,16,FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA,5,,80
+30,Secretaria Municipal de Desenvolvimento Econômico e Trabalho,80,Fundação Paulistana de Educação Tecnologia e Cultura,16,FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA,5,,80
+10,Autoridade Municipal de Limpeza Urbana,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+12,Secretaria Municipal das Subprefeituras,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+20,Fundo Municipal de Limpeza Urbana,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+20,Fundo Municipal de Limpeza Urbana,81,Fundo Municipal Limpeza Urbana,81,FUNDO MUNICIPAL DE LIMPEZA URBANA,5,,81
+22,Secretaria Municipal de Infraestrutura Urbana,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+10,Autoridade Municipal de Limpeza Urbana,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+12,Secretaria Municipal das Subprefeituras,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+20,Fundo Municipal de Limpeza Urbana,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+20,Fundo Municipal de Limpeza Urbana,81,Fundo Municipal Limpeza Urbana,81,FUNDO MUNICIPAL DE LIMPEZA URBANA,5,,81
+22,Secretaria Municipal de Infraestrutura Urbana,81,Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana,15,Autoridade Municipal de Limpeza Urbana/FMLU,5,,81
+10,Fundação Catavento - Gabinete,82,Fundação Catavento,17,Fundação Catavento,5,,82
+10,Fundação Catavento - Gabinete,82,Fundação Catavento,17,Fundação Catavento,5,,82
+10,Companhia Metropolitana de Habitação de São Paulo,83,Companhia Metropolitana de Habitação de São Paulo,83,COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO,5,,83
+14,Secretaria Municipal de Habitação,83,Companhia Metropolitana de Habitação de São Paulo,83,COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO,5,,83
+01,Autarquia Hospitalar Municipal,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+02,Hospital do Servidor Público Municipal,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+10,Fundo Municipal de Saúde,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+11,Fundo Municipal de Saúde/BID,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+21,Hosp.Munic. e Maternidade Escola Dr. Mário de Moraes Altenfelder Silva,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+22,Coordenação de Vigilância em Saúde,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+23,Coordenadoria Regional de Saúde Norte,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+24,Coordenadoria Regional de Saúde Sul,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+25,Coordenadoria Regional de Saúde Sudeste,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+26,Coordenadoria Regional de Saúde Leste,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+27,Coordenadoria Regional de Saúde Oeste,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+28,Coordenadoria Regional de Saúde Centro,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+83,CIA. METROPOLITANA DE HABITAÇÃO DE SÃO PAULO,84,Fundo Municipal de Saúde,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,84
+10,Fundação Theatro Municipal de São Paulo,85,Fundação Theatro Municipal de São Paulo,85,FUNDAÇÃO THEATRO MUNICIPAL DE SÃO PAULO,5,,85
+10,Fundo Municipal de Saneamento Ambiental e Infraestrutura,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+11,FMSAI - Secretaria do Governo Municipal,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+12,FMSAI - Secretaria Municipal das Subprefeituras ,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+14,FMSAI - Secretaria Municipal da Habitação,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+22,FMSAI - Secretaria Municipal de Infraestrutura Urbana e Obras,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+27,FMSAI - Secretaria Municipal do Verde e Meio Ambiente,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+83,Companhia Metropolitana de Habitação de São Paulo - COHAB,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+91,Fundo Municipal de Habitação,86,Fundo Municipal de Saneamento Ambiental e Infraestrutura,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,86
+10,Fundo Municipal de Desenvolvimento de Trânsito,87,Fundo Municipal de Desenvolvimento de Trânsito,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,87
+33,AGENCIA REGULADORA DE SERVIÇOS PÚBLICOS DO MUNICÍPIO DE SÃO PAULO,87,Fundo Municipal de Desenvolvimento de Trânsito,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,87
+10,Fundo de Preservação do Patrimônio Histórico e Cultural,88,Fundo de Preservação do Patrimônio Histórico e Cultural,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,88
+10,Fundo Municipal de Esportes e Lazer,89,Fundo Municipal de Esportes e Lazer,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,89
+10,Fundo Municipal dos Direitos da Criança e do Adolescente,90,Fundo Municipal dos Direitos da Criança e do Adolescente,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,90
+10,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,91
+10,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação - COHAB,5,,91
+14,SECRETARIA MUNICIPAL DE HABITAÇÃO,91,Fundo Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,91
+14,FMH/SEHAB,91,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação - COHAB,5,,91
+10,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,91
+10,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação - COHAB,5,,91
+14,SECRETARIA MUNICIPAL DE HABITAÇÃO,91,Fundo Municipal de Habitação,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,91
+14,FMH/SEHAB,91,Fundo Municipal de Habitação,91,Fundo Municipal de Habitação - COHAB,5,,91
+10,"Fundo Municipal do Trabalho, Emprego e Renda",92,"Fundo Municipal do Trabalho, Emprego e Renda",01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,92
+10,Fundo Municipal de Assistência Social,93,Fundo Municipal de Assistência Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,93
+83,"Companhia Metropolitana de Habitação de São Paulo
+",93,Fundo Municipal de Assistência Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,93
+10,Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável,94,Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,94
+10,Fundo Especial de Promoção de Atividades Culturais,95,Fundo Especial de Promoção de Atividades Culturais,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,95
+10,Fundo Municipal de Turismo,96,Fundo Municipal de Turismo,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,96
+10,Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano,97,Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,97
+05,São Paulo Urbanismo,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+10,Fundo de Desenvolvimento Urbano,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+12,FUNDURB - Secretaria Municipal das Subprefeituras,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+14,FUNDURB - Secretaria Municipal de Habitação,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+19,"Secretaria Municipal de Esportes, Lazer e Recreação",98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+20,FUNDURB - Secretaria Municipal de Transportes,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+22,FUNDURB - Secretaria Municipal de Infraestrutura Urbana e Obras,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+25,FUNDURB - Secretaria Municipal de Cultura,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+27,FUNDURB - Secretaria Municipal do Verde e do Meio Ambiente,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+29,FUNDURB - Secretaria Municipal de Urbanismo e Licenciamento,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+37,FUNDURB - Secretaria Municipal de Desenvolvimento Urbano,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+41,Fundo de Desenvolvimento Urbano – AIU - Vila Andrade/FUNDURB,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+42,Fundo de Desenvolvimento Urbano – AIU - Jurubatuba/FUNDURB,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+43,Fundo de Desenvolvimento Urbano – AIU - Interlagos/FUNDURB,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+44,Fundo de Desenv. Urbano – AIU Vila Leopoldina-Villa Lobos/FUNDURB,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+45,Fundo de Desenvolvimento Urbano – AIU SETOR CENTRAL/FUNDURB,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+46,Fundo de Desenvolvimento Urbano – AIU ARCO PINHEIROS/FUNDURB,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+83,Companhia Metropolitana de Habitação de São Paulo,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+85,FUNDURB - FUNDAÇÃO THEATRO MUNICIPAL,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+91,Fundo Municipal de Habitação,98,Fundo de Desenvolvimento Urbano,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,98
+10,Fundo Municipal de Iluminação Pública,99,Fundo Municipal de Iluminação Pública,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,99
+33,SPREGULA,99,Fundo Municipal de Iluminação Pública,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,99

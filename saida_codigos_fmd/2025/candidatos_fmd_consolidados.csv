@@ -1,0 +1,60 @@
+﻿endpoint,ano,codOrgao,txtDescricaoOrgao,codigoEmpresa,descricaoEmpresa,modifiedMode,usuarioOperacao,codFonteRecurso,txtDescricaoFonteRecurso,anoExercicio,codPrograma,txtDescricaoPrograma,codProjetoAtividade,txtDescricaoProjetoAtividade,codUnidade,txtDescricaoUnidade,codigoOrgao,descricaoOrgao,_codOrgao_consultado
+orgaos,2025,07,Fundo Municipal de Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,,,,,
+orgaos,2025,24,Secretaria Municipal de Assistência e Desenvolvimento Social,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,,,,,
+orgaos,2025,40,Secretaria Municipal de Desestatização e Parcerias,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.1.759.1167,PMSP-SMDHC/Fundo Municipal de Defesa do Consumidor-FMDC,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.1.759.1224,PMSP-SF/COADM-Fundo Municipal de Desenvolvimento Social-FMD,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.1.799.0710,PMSP-SMDU/OU AGUA BRANCA - OUTORGA,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.1.799.0717,PMSP-SMDU/OUC FARIA LIMA - OUTORGA GERAL,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.1.799.1431,PMSP-SMUL/OUC AGUA BRANCA - OUTORGA GERAL,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.1.799.1433,PMSP-SMUL/OUC FARIA LIMA - OUTORGA GERAL  ,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.2.759.1224,PMSP-SF/COADM-Fundo Municipal de Desenvolvimento Social-FMD,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.2.799.0710,PMSP-SMDU/OU AGUA BRANCA - OUTORGA,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,08.2.799.0717,PMSP-SMDU/OUC FARIA LIMA - OUTORGA GERAL,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,10.1.755.1224,PMSP-SF/COADM-Fundo Municipal de Desenvolvimento Social-FMD,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,10.1.755.9001,Recursos de Alienação de Bens/Ativos - Administração Direta,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,10.1.756.8003,Recursos de Alienação de Bens/Ativos - Administração Indireta,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,10.2.755.1224,PMSP-SF/COADM-Fundo Municipal de Desenvolvimento Social-FMD,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,10.2.755.9001,Recursos de Alienação de Bens/Ativos - Administração Direta,2025.0,,,,,,,,,
+fonteRecursos,2025,,,,,5,,10.2.756.8003,Recursos de Alienação de Bens/Ativos - Administração Indireta,2025.0,,,,,,,,,
+programas,2025,,,,,5,,,,,0343,Assistência e Desenvolvimento Social à Família-Proteção Social Básica,,,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,1912,ABADS (Associação Brasileira de Assistência e Desenvolvimento Social),,,,,
+projetosAtividades,2025,,,,,5,,,,,,,2419,Ações de Desestatização,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,3010,Projetos de Saúde Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,3011,Projetos de Educação Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,3012,Projetos de Transporte Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,3013,Projetos de Assistência Social Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,3014,Projetos de Habitação Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,3015,Projetos de Segurança Urbana Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,3747,Metrô - Recursos de Alienação de Bens,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,5411,Projetos de Desestatização,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,5417,Projetos de Mobilidade Urbana Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,5418,Projetos de Desenvolvimento Urbano Oriundos de Recursos de Desestatizações e Parcerias,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,6010,Concessão dos Serviços Divisíveis de Limpeza Urbana em Regime Público,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,6249,Ações de Desenvolvimento Social,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,6831,Despesas Decorrentes da alienação de ativos,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,6832,Encargos Referentes a Alienações de Bens,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,8088,Ações do Núcleo de Desenvolvimento Social,,,,,
+projetosAtividades,2025,,,,,5,,,,,,,9282,Assistência e Desenvolvimento Social,,,,,
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,10,Fundo Municipal de Desenvolvimento Social,07,Fundo Municipal de Desenvolvimento Social,07
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,83,Companhia Metropolitana de Habitação de São Paulo,07,Fundo Municipal de Desenvolvimento Social,07
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,91,Fundo Municipal de Habitação,07,Fundo Municipal de Desenvolvimento Social,07
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,10,Fundo Municipal de Desenvolvimento Social,07,Fundo Municipal de Desenvolvimento Social,07
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,83,Companhia Metropolitana de Habitação de São Paulo,07,Fundo Municipal de Desenvolvimento Social,07
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,91,Fundo Municipal de Habitação,07,Fundo Municipal de Desenvolvimento Social,07
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,10,Gabinete do Secretário,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,11,Supervisão Geral de Administração,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,12,Supervisão Geral de Desenvolvimento de Pessoal,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,13,Supervisão Geral de Planejamento e Controle,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,20,Supervisão Regional de Assistência Social de Campo Limpo,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,21,Coordenadoria de Assistência Social - CAS Sudeste,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,22,Coordenadoria de Assistência Social - CAS Leste,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,23,Coordenadoria de Assistência Social - CAS Centro-Oeste,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,24,Coordenadoria de Assistência Social - CAS Sul,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,25,Coordenadoria de Assistência Social - CAS Norte,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,30,Supervisão Regional de Assistência Social da Freguesia do Ó,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,40,Supervisão Regional de Assistência Social de São Miguel Paulista,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,50,Supervisão Regional de Assistência Social da Sé/Lapa,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,60,Supervisão Regional de Assistência Social de Vila Prudente,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,83,Companhia Metropolitana de Habitação de São Paulo,24,Secretaria Municipal de Assistência e Desenvolvimento Social,24
+unidades,2025,,,01,PREFEITURA DO MUNICÍPIO DE SÃO PAULO,5,,,,,,,,,10,Gabinete do Secretário,40,Secretaria Municipal de Desestatização e Parcerias,40

@@ -1,0 +1,386 @@
+{
+  "01": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 0.0,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 0.0,
+          "valPagoExercicio": 0.0,
+          "valCanceladoReserva": 0.0,
+          "valDescongelado": 0.0,
+          "valReservado": 0.0,
+          "valEmpenhadoLiquido": 0.0,
+          "valTotalEmpenhado": 0.0,
+          "valReservadoLiquido": 0.0,
+          "valAnuladoEmpenho": 0.0,
+          "valDisponivel": 74536148.0,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 0.0,
+          "valOrcadoAtualizado": 74552148.0,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 1
+        }
+      ]
+    }
+  ],
+  "02": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 0.0,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 41884324.75,
+          "valPagoExercicio": 0.0,
+          "valCanceladoReserva": 0.0,
+          "valDescongelado": 0.0,
+          "valReservado": 0.0,
+          "valEmpenhadoLiquido": 0.0,
+          "valTotalEmpenhado": 0.0,
+          "valReservadoLiquido": 0.0,
+          "valAnuladoEmpenho": 0.0,
+          "valDisponivel": 74536148.0,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 41884324.75,
+          "valOrcadoAtualizado": 74552148.0,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 2
+        }
+      ]
+    }
+  ],
+  "03": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 0.0,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 58737504.9,
+          "valPagoExercicio": 0.0,
+          "valCanceladoReserva": 17353000.0,
+          "valDescongelado": 0.0,
+          "valReservado": 80242146.0,
+          "valEmpenhadoLiquido": 54757307.71,
+          "valTotalEmpenhado": 56396618.01,
+          "valReservadoLiquido": 62889146.0,
+          "valAnuladoEmpenho": 1639310.3,
+          "valDisponivel": 91389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 41884324.75,
+          "valOrcadoAtualizado": 91405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 3
+        }
+      ]
+    }
+  ],
+  "04": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 16050029.96,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 58737504.9,
+          "valPagoExercicio": 3309232.78,
+          "valCanceladoReserva": 17353000.0,
+          "valDescongelado": 0.0,
+          "valReservado": 80742146.0,
+          "valEmpenhadoLiquido": 59188309.12,
+          "valTotalEmpenhado": 63476092.36,
+          "valReservadoLiquido": 63389146.0,
+          "valAnuladoEmpenho": 4287783.24,
+          "valDisponivel": 91389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 41884324.75,
+          "valOrcadoAtualizado": 91405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 4
+        }
+      ]
+    }
+  ],
+  "05": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 35780624.47,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 58737504.9,
+          "valPagoExercicio": 34042873.97,
+          "valCanceladoReserva": 17353000.0,
+          "valDescongelado": 0.0,
+          "valReservado": 80742146.0,
+          "valEmpenhadoLiquido": 61400564.22,
+          "valTotalEmpenhado": 65688347.46,
+          "valReservadoLiquido": 63389146.0,
+          "valAnuladoEmpenho": 4287783.24,
+          "valDisponivel": 91389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 41884324.75,
+          "valOrcadoAtualizado": 91405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 5
+        }
+      ]
+    }
+  ],
+  "06": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 41213927.45,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 66281467.66,
+          "valPagoExercicio": 41005963.36,
+          "valCanceladoReserva": 17353000.0,
+          "valDescongelado": 0.0,
+          "valReservado": 80742146.0,
+          "valEmpenhadoLiquido": 61400564.22,
+          "valTotalEmpenhado": 65988347.46,
+          "valReservadoLiquido": 63389146.0,
+          "valAnuladoEmpenho": 4587783.24,
+          "valDisponivel": 91389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 49428287.51,
+          "valOrcadoAtualizado": 91405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 6
+        }
+      ]
+    }
+  ],
+  "07": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 47598690.12,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 66281467.66,
+          "valPagoExercicio": 47031522.29,
+          "valCanceladoReserva": 41223368.55,
+          "valDescongelado": 0.0,
+          "valReservado": 115049281.33,
+          "valEmpenhadoLiquido": 69497302.66,
+          "valTotalEmpenhado": 74085085.9,
+          "valReservadoLiquido": 73825912.78,
+          "valAnuladoEmpenho": 4587783.24,
+          "valDisponivel": 91389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 49428287.51,
+          "valOrcadoAtualizado": 91405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 7
+        }
+      ]
+    }
+  ],
+  "08": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 54502622.47,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 66281467.66,
+          "valPagoExercicio": 50956492.94,
+          "valCanceladoReserva": 43883951.69,
+          "valDescongelado": 0.0,
+          "valReservado": 135273097.69,
+          "valEmpenhadoLiquido": 84568289.99,
+          "valTotalEmpenhado": 96700035.99,
+          "valReservadoLiquido": 91389146.0,
+          "valAnuladoEmpenho": 12131746.0,
+          "valDisponivel": 91389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 49428287.51,
+          "valOrcadoAtualizado": 91405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 8
+        }
+      ]
+    }
+  ],
+  "09": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 59102456.12,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 66281467.66,
+          "valPagoExercicio": 58231018.17,
+          "valCanceladoReserva": 43883951.69,
+          "valDescongelado": 0.0,
+          "valReservado": 135273097.69,
+          "valEmpenhadoLiquido": 85168289.99,
+          "valTotalEmpenhado": 97300035.99,
+          "valReservadoLiquido": 91389146.0,
+          "valAnuladoEmpenho": 12131746.0,
+          "valDisponivel": 91389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 49428287.51,
+          "valOrcadoAtualizado": 91405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 9
+        }
+      ]
+    }
+  ],
+  "10": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 62992746.74,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 454281467.66,
+          "valPagoExercicio": 62571778.02,
+          "valCanceladoReserva": 43883951.69,
+          "valDescongelado": 0.0,
+          "valReservado": 523273097.69,
+          "valEmpenhadoLiquido": 274615938.51,
+          "valTotalEmpenhado": 286858117.49,
+          "valReservadoLiquido": 479389146.0,
+          "valAnuladoEmpenho": 12242178.98,
+          "valDisponivel": 479389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 49428287.51,
+          "valOrcadoAtualizado": 479405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 10
+        }
+      ]
+    }
+  ],
+  "11": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 105087244.09,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 469281467.66,
+          "valPagoExercicio": 104883750.74,
+          "valCanceladoReserva": 43883951.69,
+          "valDescongelado": 0.0,
+          "valReservado": 538273097.69,
+          "valEmpenhadoLiquido": 454716407.71,
+          "valTotalEmpenhado": 469789902.58,
+          "valReservadoLiquido": 494389146.0,
+          "valAnuladoEmpenho": 15073494.87,
+          "valDisponivel": 494389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 49428287.51,
+          "valOrcadoAtualizado": 494405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 11
+        }
+      ]
+    }
+  ],
+  "12": [
+    {
+      "metaDados": {
+        "txtMensagemErro": "",
+        "qtdPaginas": 1,
+        "txtStatus": "OK"
+      },
+      "lstDespesas": [
+        {
+          "valLiquidado": 195888088.55,
+          "valPagoRestos": 0.0,
+          "valSuplementado": 469281467.66,
+          "valPagoExercicio": 194800293.62,
+          "valCanceladoReserva": 59244101.7,
+          "valDescongelado": 0.0,
+          "valReservado": 538273097.69,
+          "valEmpenhadoLiquido": 479028995.99,
+          "valTotalEmpenhado": 520212203.96,
+          "valReservadoLiquido": 479028995.99,
+          "valAnuladoEmpenho": 41183207.97,
+          "valDisponivel": 494389328.15,
+          "valOrcadoInicial": 74552148.0,
+          "valCongelado": 16000.0,
+          "valReduzido": 49428287.51,
+          "valOrcadoAtualizado": 494405328.15,
+          "modifiedMode": 5,
+          "usuarioOperacao": "",
+          "_mesConsulta": 12
+        }
+      ]
+    }
+  ]
+}

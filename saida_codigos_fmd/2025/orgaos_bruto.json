@@ -1,0 +1,1876 @@
+[
+  {
+    "metaDados": {
+      "txtMensagemErro": "",
+      "qtdPaginas": 1,
+      "txtStatus": "OK"
+    },
+    "lstOrgaos": [
+      {
+        "codOrgao": "01",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal",
+        "codigoEmpresa": "10",
+        "descricaoEmpresa": "AUTARQUIA HOSPITALAR MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "02",
+        "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+        "codigoEmpresa": "04",
+        "descricaoEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "03",
+        "txtDescricaoOrgao": "Instituto de Previdência Municipal de São Paulo",
+        "codigoEmpresa": "05",
+        "descricaoEmpresa": "INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "03",
+        "txtDescricaoOrgao": "Fundo Previdenciário - FUNPREV",
+        "codigoEmpresa": "08",
+        "descricaoEmpresa": "FUNDO PREVIDENCIÁRIO - FUNPREV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "03",
+        "txtDescricaoOrgao": "Fundo Financeiro - FUNFIN",
+        "codigoEmpresa": "09",
+        "descricaoEmpresa": "FUNDO FINANCEIRO - FUNFIN",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "04",
+        "txtDescricaoOrgao": "Serviço Funerário do Município de São Paulo",
+        "codigoEmpresa": "06",
+        "descricaoEmpresa": "SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "05",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal Regional Leste",
+        "codigoEmpresa": "11",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Leste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "05",
+        "txtDescricaoOrgao": "São Paulo Urbanismo",
+        "codigoEmpresa": "30",
+        "descricaoEmpresa": "SÃO PAULO URBANISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "06",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal Regional Sudeste",
+        "codigoEmpresa": "12",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Sudeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "06",
+        "txtDescricaoOrgao": "São Paulo Turismo",
+        "codigoEmpresa": "29",
+        "descricaoEmpresa": "SÃO PAULO TURISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "07",
+        "txtDescricaoOrgao": "Fundo Municipal de Desenvolvimento Social",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "07",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal Regional Sul",
+        "codigoEmpresa": "13",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Sul",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "08",
+        "txtDescricaoOrgao": "Fundo Municipal do Idoso",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "08",
+        "txtDescricaoOrgao": "Autarquia Municipal de Serviços Auxiliares de Saúde",
+        "codigoEmpresa": "14",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Centro-Oeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "09",
+        "txtDescricaoOrgao": "Câmara Municipal de São Paulo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "09",
+        "txtDescricaoOrgao": "Câmara Municipal de São Paulo",
+        "codigoEmpresa": "18",
+        "descricaoEmpresa": "CÂMARA MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "09",
+        "txtDescricaoOrgao": "Câmara Municipal de São Paulo",
+        "codigoEmpresa": "22",
+        "descricaoEmpresa": "Fundo Especial de Despesas da Câmara",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "10",
+        "txtDescricaoOrgao": "Tribunal de Contas do Município de São Paulo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "10",
+        "txtDescricaoOrgao": "Tribunal de Contas do Município de São Paulo",
+        "codigoEmpresa": "19",
+        "descricaoEmpresa": "TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "10",
+        "txtDescricaoOrgao": "Tribunal de Contas do Município de São Paulo",
+        "codigoEmpresa": "23",
+        "descricaoEmpresa": "FUNDO ESPECIAL DE DESPESAS DO TCMSP",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "11",
+        "txtDescricaoOrgao": "Secretaria do Governo Municipal",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "12",
+        "txtDescricaoOrgao": "Secretaria Municipal das Subprefeituras",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "13",
+        "txtDescricaoOrgao": "Secretaria Municipal de Gestão",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "14",
+        "txtDescricaoOrgao": "Secretaria Municipal de Habitação",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "15",
+        "txtDescricaoOrgao": "Secretaria Municipal  de Modernização, Gestão e Desburocratização",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "15",
+        "txtDescricaoOrgao": "Cinema e Audiovisual de São Paulo",
+        "codigoEmpresa": "03",
+        "descricaoEmpresa": "CINEMA E AUDIOVISUAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "16",
+        "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "17",
+        "txtDescricaoOrgao": "Secretaria Municipal da Fazenda",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "18",
+        "txtDescricaoOrgao": "Secretaria Municipal da Saúde",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "19",
+        "txtDescricaoOrgao": "Secretaria Municipal de Esportes e Lazer",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "20",
+        "txtDescricaoOrgao": "Secretaria Municipal de Mobilidade Urbana e Transporte - SMT",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "21",
+        "txtDescricaoOrgao": "Procuradoria Geral do Município - PGM",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "22",
+        "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "23",
+        "txtDescricaoOrgao": "Secretaria Municipal de Inovação e Tecnologia",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "24",
+        "txtDescricaoOrgao": "Secretaria Municipal de Assistência e Desenvolvimento Social",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "25",
+        "txtDescricaoOrgao": "Secretaria Municipal de Cultura",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "26",
+        "txtDescricaoOrgao": "Secretaria Municipal de Justiça",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "27",
+        "txtDescricaoOrgao": "Secretaria Municipal do Verde e do Meio Ambiente",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "28",
+        "txtDescricaoOrgao": "Encargos Gerais do Município",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "29",
+        "txtDescricaoOrgao": "Secretaria Municipal de Urbanismo e Licenciamento",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "30",
+        "txtDescricaoOrgao": "Secretaria Municipal de Desenvolvimento Econômico e Trabalho",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "31",
+        "txtDescricaoOrgao": "Secretaria Municipal de Planejamento e Eficiência",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "32",
+        "txtDescricaoOrgao": "Controladoria Geral do Município",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "33",
+        "txtDescricaoOrgao": "Secretaria Municipal de Segurança Urbana",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "33",
+        "txtDescricaoOrgao": "Agência Reg. de Serv. Públicos do Mun de São Paulo        ",
+        "codigoEmpresa": "07",
+        "descricaoEmpresa": "AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "34",
+        "txtDescricaoOrgao": "Secretaria Municipal de Direitos Humanos e Cidadania",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "35",
+        "txtDescricaoOrgao": "Fundo Municipal de Defesa do Consumidor",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "36",
+        "txtDescricaoOrgao": "Secretaria Municipal da Pessoa com Deficiência",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "36",
+        "txtDescricaoOrgao": "Autoridade Municipal de Limpeza Urbana / Fundo Mun. de Limpeza Urbana",
+        "codigoEmpresa": "15",
+        "descricaoEmpresa": "Autoridade Municipal de Limpeza Urbana/FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "37",
+        "txtDescricaoOrgao": "Secretaria Municipal de Desenvolvimento Urbano",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "38",
+        "txtDescricaoOrgao": "Secretaria Municipal de Segurança Urbana",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "39",
+        "txtDescricaoOrgao": "Fundo Especial da Procuradoria Geral do Município",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "40",
+        "txtDescricaoOrgao": "Secretaria Municipal de Desestatização e Parcerias",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "41",
+        "txtDescricaoOrgao": "Subprefeitura Perus/Anhanguera",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "42",
+        "txtDescricaoOrgao": "Subprefeitura Pirituba/Jaraguá",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "43",
+        "txtDescricaoOrgao": "Subprefeitura Freguesia/Brasilândia",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "44",
+        "txtDescricaoOrgao": "Subprefeitura Casa Verde/Limão/Cachoeirinha ",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "45",
+        "txtDescricaoOrgao": "Subprefeitura Santana/Tucuruvi",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "46",
+        "txtDescricaoOrgao": "Subprefeitura Jaçanã/Tremembé",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "47",
+        "txtDescricaoOrgao": "Subprefeitura Vila Maria/Vila Guilherme",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "48",
+        "txtDescricaoOrgao": "Subprefeitura Lapa",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "49",
+        "txtDescricaoOrgao": "Subprefeitura Sé",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "50",
+        "txtDescricaoOrgao": "Subprefeitura Butantã",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "51",
+        "txtDescricaoOrgao": "Subprefeitura Pinheiros",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "52",
+        "txtDescricaoOrgao": "Subprefeitura Vila Mariana",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "53",
+        "txtDescricaoOrgao": "Subprefeitura Ipiranga",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "54",
+        "txtDescricaoOrgao": "Subprefeitura Santo Amaro",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "55",
+        "txtDescricaoOrgao": "Subprefeitura Jabaquara",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "56",
+        "txtDescricaoOrgao": "Subprefeitura Cidade Ademar",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "57",
+        "txtDescricaoOrgao": "Subprefeitura Campo Limpo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "58",
+        "txtDescricaoOrgao": "Subprefeitura M'Boi Mirim",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "59",
+        "txtDescricaoOrgao": "Subprefeitura Capela do Socorro",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "60",
+        "txtDescricaoOrgao": "Subprefeitura Parelheiros",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "61",
+        "txtDescricaoOrgao": "Subprefeitura Penha",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "62",
+        "txtDescricaoOrgao": "Subprefeitura Ermelino Matarazzo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "63",
+        "txtDescricaoOrgao": "Subprefeitura São Miguel Paulista",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "64",
+        "txtDescricaoOrgao": "Subprefeitura Itaim Paulista",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "65",
+        "txtDescricaoOrgao": "Subprefeitura Mooca",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "66",
+        "txtDescricaoOrgao": "Subprefeitura Aricanduva/Formosa/Carrão",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "67",
+        "txtDescricaoOrgao": "Subprefeitura Itaquera",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "68",
+        "txtDescricaoOrgao": "Subprefeitura de Guaianases",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "69",
+        "txtDescricaoOrgao": "Subprefeitura de Vila Prudente",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "70",
+        "txtDescricaoOrgao": "Subprefeitura São Mateus",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "71",
+        "txtDescricaoOrgao": "Subprefeitura Cidade Tiradentes",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "72",
+        "txtDescricaoOrgao": "Subprefeitura Sapopemba",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "73",
+        "txtDescricaoOrgao": "Secretaria Municipal de Relações Internacionais",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "74",
+        "txtDescricaoOrgao": "Secretaria Municipal de Turismo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "75",
+        "txtDescricaoOrgao": "Fundo Municipal de Parques",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "76",
+        "txtDescricaoOrgao": "Fundo Especial de Despesas da Câmara Municipal de São Paulo",
+        "codigoEmpresa": "22",
+        "descricaoEmpresa": "Fundo Especial de Despesas da Câmara",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "77",
+        "txtDescricaoOrgao": "Fundo Especial de Despesas do Tribunal de Contas ",
+        "codigoEmpresa": "23",
+        "descricaoEmpresa": "FUNDO ESPECIAL DE DESPESAS DO TCMSP",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "78",
+        "txtDescricaoOrgao": "Fundo de Abastecimento Alimentar de São Paulo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "79",
+        "txtDescricaoOrgao": "Secretaria Municipal de Políticas para as Mulheres",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "80",
+        "txtDescricaoOrgao": "Fundação Paulistana de Educação, Tecnologia e Cultura",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "80",
+        "txtDescricaoOrgao": "Fundação Paulistana de Educação Tecnologia e Cultura",
+        "codigoEmpresa": "16",
+        "descricaoEmpresa": "FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "81",
+        "txtDescricaoOrgao": "Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana",
+        "codigoEmpresa": "15",
+        "descricaoEmpresa": "Autoridade Municipal de Limpeza Urbana/FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "81",
+        "txtDescricaoOrgao": "Fundo Municipal Limpeza Urbana",
+        "codigoEmpresa": "81",
+        "descricaoEmpresa": "FUNDO MUNICIPAL DE LIMPEZA URBANA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "82",
+        "txtDescricaoOrgao": "Fundação Catavento",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "82",
+        "txtDescricaoOrgao": "Fundação Catavento",
+        "codigoEmpresa": "17",
+        "descricaoEmpresa": "Fundação Catavento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "83",
+        "txtDescricaoOrgao": "Companhia Metropolitana de Habitação de São Paulo",
+        "codigoEmpresa": "83",
+        "descricaoEmpresa": "COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "84",
+        "txtDescricaoOrgao": "Fundo Municipal de Saúde",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "85",
+        "txtDescricaoOrgao": "Fundação Theatro Municipal de São Paulo",
+        "codigoEmpresa": "85",
+        "descricaoEmpresa": "FUNDAÇÃO THEATRO MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "86",
+        "txtDescricaoOrgao": "Fundo Municipal de Saneamento Ambiental e Infraestrutura",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "87",
+        "txtDescricaoOrgao": "Fundo Municipal de Desenvolvimento de Trânsito",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "88",
+        "txtDescricaoOrgao": "Fundo de Preservação do Patrimônio Histórico e Cultural",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "89",
+        "txtDescricaoOrgao": "Fundo Municipal de Esportes e Lazer",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "90",
+        "txtDescricaoOrgao": "Fundo Municipal dos Direitos da Criança e do Adolescente",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "91",
+        "txtDescricaoOrgao": "Fundo Municipal de Habitação",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "91",
+        "txtDescricaoOrgao": "Fundo Municipal de Habitação",
+        "codigoEmpresa": "91",
+        "descricaoEmpresa": "Fundo Municipal de Habitação - COHAB",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "92",
+        "txtDescricaoOrgao": "Fundo Municipal do Trabalho, Emprego e Renda",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "93",
+        "txtDescricaoOrgao": "Fundo Municipal de Assistência Social",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "94",
+        "txtDescricaoOrgao": "Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "95",
+        "txtDescricaoOrgao": "Fundo Especial de Promoção de Atividades Culturais",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "96",
+        "txtDescricaoOrgao": "Fundo Municipal de Turismo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "97",
+        "txtDescricaoOrgao": "Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "98",
+        "txtDescricaoOrgao": "Fundo de Desenvolvimento Urbano",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "99",
+        "txtDescricaoOrgao": "Fundo Municipal de Iluminação Pública",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      }
+    ]
+  },
+  {
+    "metaDados": {
+      "txtMensagemErro": "",
+      "qtdPaginas": 1,
+      "txtStatus": "OK"
+    },
+    "lstOrgaos": [
+      {
+        "codOrgao": "01",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal",
+        "codigoEmpresa": "10",
+        "descricaoEmpresa": "AUTARQUIA HOSPITALAR MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "02",
+        "txtDescricaoOrgao": "Hospital do Servidor Público Municipal",
+        "codigoEmpresa": "04",
+        "descricaoEmpresa": "HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "03",
+        "txtDescricaoOrgao": "Instituto de Previdência Municipal de São Paulo",
+        "codigoEmpresa": "05",
+        "descricaoEmpresa": "INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "03",
+        "txtDescricaoOrgao": "Fundo Previdenciário - FUNPREV",
+        "codigoEmpresa": "08",
+        "descricaoEmpresa": "FUNDO PREVIDENCIÁRIO - FUNPREV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "03",
+        "txtDescricaoOrgao": "Fundo Financeiro - FUNFIN",
+        "codigoEmpresa": "09",
+        "descricaoEmpresa": "FUNDO FINANCEIRO - FUNFIN",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "04",
+        "txtDescricaoOrgao": "Serviço Funerário do Município de São Paulo",
+        "codigoEmpresa": "06",
+        "descricaoEmpresa": "SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "05",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal Regional Leste",
+        "codigoEmpresa": "11",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Leste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "05",
+        "txtDescricaoOrgao": "São Paulo Urbanismo",
+        "codigoEmpresa": "30",
+        "descricaoEmpresa": "SÃO PAULO URBANISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "06",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal Regional Sudeste",
+        "codigoEmpresa": "12",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Sudeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "06",
+        "txtDescricaoOrgao": "São Paulo Turismo",
+        "codigoEmpresa": "29",
+        "descricaoEmpresa": "SÃO PAULO TURISMO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "07",
+        "txtDescricaoOrgao": "Fundo Municipal de Desenvolvimento Social",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "07",
+        "txtDescricaoOrgao": "Autarquia Hospitalar Municipal Regional Sul",
+        "codigoEmpresa": "13",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Sul",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "08",
+        "txtDescricaoOrgao": "Fundo Municipal do Idoso",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "08",
+        "txtDescricaoOrgao": "Autarquia Municipal de Serviços Auxiliares de Saúde",
+        "codigoEmpresa": "14",
+        "descricaoEmpresa": "Autarquia Hosp. Munic. Regional Centro-Oeste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "09",
+        "txtDescricaoOrgao": "Câmara Municipal de São Paulo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "09",
+        "txtDescricaoOrgao": "Câmara Municipal de São Paulo",
+        "codigoEmpresa": "18",
+        "descricaoEmpresa": "CÂMARA MUNICIPAL",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "09",
+        "txtDescricaoOrgao": "Câmara Municipal de São Paulo",
+        "codigoEmpresa": "22",
+        "descricaoEmpresa": "Fundo Especial de Despesas da Câmara",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "10",
+        "txtDescricaoOrgao": "Tribunal de Contas do Município de São Paulo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "10",
+        "txtDescricaoOrgao": "Tribunal de Contas do Município de São Paulo",
+        "codigoEmpresa": "19",
+        "descricaoEmpresa": "TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "10",
+        "txtDescricaoOrgao": "Tribunal de Contas do Município de São Paulo",
+        "codigoEmpresa": "23",
+        "descricaoEmpresa": "FUNDO ESPECIAL DE DESPESAS DO TCMSP",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "11",
+        "txtDescricaoOrgao": "Secretaria do Governo Municipal",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "12",
+        "txtDescricaoOrgao": "Secretaria Municipal das Subprefeituras",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "13",
+        "txtDescricaoOrgao": "Secretaria Municipal de Gestão",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "14",
+        "txtDescricaoOrgao": "Secretaria Municipal de Habitação",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "15",
+        "txtDescricaoOrgao": "Secretaria Municipal  de Modernização, Gestão e Desburocratização",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "15",
+        "txtDescricaoOrgao": "Cinema e Audiovisual de São Paulo",
+        "codigoEmpresa": "03",
+        "descricaoEmpresa": "CINEMA E AUDIOVISUAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "16",
+        "txtDescricaoOrgao": "Secretaria Municipal de Educação",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "17",
+        "txtDescricaoOrgao": "Secretaria Municipal da Fazenda",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "18",
+        "txtDescricaoOrgao": "Secretaria Municipal da Saúde",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "19",
+        "txtDescricaoOrgao": "Secretaria Municipal de Esportes e Lazer",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "20",
+        "txtDescricaoOrgao": "Secretaria Municipal de Mobilidade Urbana e Transporte - SMT",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "21",
+        "txtDescricaoOrgao": "Procuradoria Geral do Município - PGM",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "22",
+        "txtDescricaoOrgao": "Secretaria Municipal de Infraestrutura Urbana e Obras",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "23",
+        "txtDescricaoOrgao": "Secretaria Municipal de Inovação e Tecnologia",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "24",
+        "txtDescricaoOrgao": "Secretaria Municipal de Assistência e Desenvolvimento Social",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "25",
+        "txtDescricaoOrgao": "Secretaria Municipal de Cultura",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "26",
+        "txtDescricaoOrgao": "Secretaria Municipal de Justiça",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "27",
+        "txtDescricaoOrgao": "Secretaria Municipal do Verde e do Meio Ambiente",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "28",
+        "txtDescricaoOrgao": "Encargos Gerais do Município",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "29",
+        "txtDescricaoOrgao": "Secretaria Municipal de Urbanismo e Licenciamento",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "30",
+        "txtDescricaoOrgao": "Secretaria Municipal de Desenvolvimento Econômico e Trabalho",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "31",
+        "txtDescricaoOrgao": "Secretaria Municipal de Planejamento e Eficiência",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "32",
+        "txtDescricaoOrgao": "Controladoria Geral do Município",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "33",
+        "txtDescricaoOrgao": "Secretaria Municipal de Segurança Urbana",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "33",
+        "txtDescricaoOrgao": "Agência Reg. de Serv. Públicos do Mun de São Paulo        ",
+        "codigoEmpresa": "07",
+        "descricaoEmpresa": "AGÊNCIA REG. DE SERV. PÚBLICOS DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "34",
+        "txtDescricaoOrgao": "Secretaria Municipal de Direitos Humanos e Cidadania",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "35",
+        "txtDescricaoOrgao": "Fundo Municipal de Defesa do Consumidor",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "36",
+        "txtDescricaoOrgao": "Secretaria Municipal da Pessoa com Deficiência",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "36",
+        "txtDescricaoOrgao": "Autoridade Municipal de Limpeza Urbana / Fundo Mun. de Limpeza Urbana",
+        "codigoEmpresa": "15",
+        "descricaoEmpresa": "Autoridade Municipal de Limpeza Urbana/FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "37",
+        "txtDescricaoOrgao": "Secretaria Municipal de Desenvolvimento Urbano",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "38",
+        "txtDescricaoOrgao": "Secretaria Municipal de Segurança Urbana",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "39",
+        "txtDescricaoOrgao": "Fundo Especial da Procuradoria Geral do Município",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "40",
+        "txtDescricaoOrgao": "Secretaria Municipal de Desestatização e Parcerias",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "41",
+        "txtDescricaoOrgao": "Subprefeitura Perus/Anhanguera",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "42",
+        "txtDescricaoOrgao": "Subprefeitura Pirituba/Jaraguá",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "43",
+        "txtDescricaoOrgao": "Subprefeitura Freguesia/Brasilândia",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "44",
+        "txtDescricaoOrgao": "Subprefeitura Casa Verde/Limão/Cachoeirinha ",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "45",
+        "txtDescricaoOrgao": "Subprefeitura Santana/Tucuruvi",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "46",
+        "txtDescricaoOrgao": "Subprefeitura Jaçanã/Tremembé",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "47",
+        "txtDescricaoOrgao": "Subprefeitura Vila Maria/Vila Guilherme",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "48",
+        "txtDescricaoOrgao": "Subprefeitura Lapa",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "49",
+        "txtDescricaoOrgao": "Subprefeitura Sé",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "50",
+        "txtDescricaoOrgao": "Subprefeitura Butantã",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "51",
+        "txtDescricaoOrgao": "Subprefeitura Pinheiros",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "52",
+        "txtDescricaoOrgao": "Subprefeitura Vila Mariana",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "53",
+        "txtDescricaoOrgao": "Subprefeitura Ipiranga",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "54",
+        "txtDescricaoOrgao": "Subprefeitura Santo Amaro",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "55",
+        "txtDescricaoOrgao": "Subprefeitura Jabaquara",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "56",
+        "txtDescricaoOrgao": "Subprefeitura Cidade Ademar",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "57",
+        "txtDescricaoOrgao": "Subprefeitura Campo Limpo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "58",
+        "txtDescricaoOrgao": "Subprefeitura M'Boi Mirim",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "59",
+        "txtDescricaoOrgao": "Subprefeitura Capela do Socorro",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "60",
+        "txtDescricaoOrgao": "Subprefeitura Parelheiros",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "61",
+        "txtDescricaoOrgao": "Subprefeitura Penha",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "62",
+        "txtDescricaoOrgao": "Subprefeitura Ermelino Matarazzo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "63",
+        "txtDescricaoOrgao": "Subprefeitura São Miguel Paulista",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "64",
+        "txtDescricaoOrgao": "Subprefeitura Itaim Paulista",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "65",
+        "txtDescricaoOrgao": "Subprefeitura Mooca",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "66",
+        "txtDescricaoOrgao": "Subprefeitura Aricanduva/Formosa/Carrão",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "67",
+        "txtDescricaoOrgao": "Subprefeitura Itaquera",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "68",
+        "txtDescricaoOrgao": "Subprefeitura de Guaianases",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "69",
+        "txtDescricaoOrgao": "Subprefeitura de Vila Prudente",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "70",
+        "txtDescricaoOrgao": "Subprefeitura São Mateus",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "71",
+        "txtDescricaoOrgao": "Subprefeitura Cidade Tiradentes",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "72",
+        "txtDescricaoOrgao": "Subprefeitura Sapopemba",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "73",
+        "txtDescricaoOrgao": "Secretaria Municipal de Relações Internacionais",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "74",
+        "txtDescricaoOrgao": "Secretaria Municipal de Turismo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "75",
+        "txtDescricaoOrgao": "Fundo Municipal de Parques",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "76",
+        "txtDescricaoOrgao": "Fundo Especial de Despesas da Câmara Municipal de São Paulo",
+        "codigoEmpresa": "22",
+        "descricaoEmpresa": "Fundo Especial de Despesas da Câmara",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "77",
+        "txtDescricaoOrgao": "Fundo Especial de Despesas do Tribunal de Contas ",
+        "codigoEmpresa": "23",
+        "descricaoEmpresa": "FUNDO ESPECIAL DE DESPESAS DO TCMSP",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "78",
+        "txtDescricaoOrgao": "Fundo de Abastecimento Alimentar de São Paulo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "79",
+        "txtDescricaoOrgao": "Secretaria Municipal de Políticas para as Mulheres",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "80",
+        "txtDescricaoOrgao": "Fundação Paulistana de Educação, Tecnologia e Cultura",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "80",
+        "txtDescricaoOrgao": "Fundação Paulistana de Educação Tecnologia e Cultura",
+        "codigoEmpresa": "16",
+        "descricaoEmpresa": "FUNDAÇÃO PAULISTANA DE EDUCAÇÃO E TECNOLOGIA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "81",
+        "txtDescricaoOrgao": "Autoridade Municipal de Limpeza Urbana/Fundo Municipal Limpeza Urbana",
+        "codigoEmpresa": "15",
+        "descricaoEmpresa": "Autoridade Municipal de Limpeza Urbana/FMLU",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "81",
+        "txtDescricaoOrgao": "Fundo Municipal Limpeza Urbana",
+        "codigoEmpresa": "81",
+        "descricaoEmpresa": "FUNDO MUNICIPAL DE LIMPEZA URBANA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "82",
+        "txtDescricaoOrgao": "Fundação Catavento",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "82",
+        "txtDescricaoOrgao": "Fundação Catavento",
+        "codigoEmpresa": "17",
+        "descricaoEmpresa": "Fundação Catavento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "83",
+        "txtDescricaoOrgao": "Companhia Metropolitana de Habitação de São Paulo",
+        "codigoEmpresa": "83",
+        "descricaoEmpresa": "COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "84",
+        "txtDescricaoOrgao": "Fundo Municipal de Saúde",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "85",
+        "txtDescricaoOrgao": "Fundação Theatro Municipal de São Paulo",
+        "codigoEmpresa": "85",
+        "descricaoEmpresa": "FUNDAÇÃO THEATRO MUNICIPAL DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "86",
+        "txtDescricaoOrgao": "Fundo Municipal de Saneamento Ambiental e Infraestrutura",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "87",
+        "txtDescricaoOrgao": "Fundo Municipal de Desenvolvimento de Trânsito",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "88",
+        "txtDescricaoOrgao": "Fundo de Preservação do Patrimônio Histórico e Cultural",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "89",
+        "txtDescricaoOrgao": "Fundo Municipal de Esportes e Lazer",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "90",
+        "txtDescricaoOrgao": "Fundo Municipal dos Direitos da Criança e do Adolescente",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "91",
+        "txtDescricaoOrgao": "Fundo Municipal de Habitação",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "91",
+        "txtDescricaoOrgao": "Fundo Municipal de Habitação",
+        "codigoEmpresa": "91",
+        "descricaoEmpresa": "Fundo Municipal de Habitação - COHAB",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "92",
+        "txtDescricaoOrgao": "Fundo Municipal do Trabalho, Emprego e Renda",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "93",
+        "txtDescricaoOrgao": "Fundo Municipal de Assistência Social",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "94",
+        "txtDescricaoOrgao": "Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "95",
+        "txtDescricaoOrgao": "Fundo Especial de Promoção de Atividades Culturais",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "96",
+        "txtDescricaoOrgao": "Fundo Municipal de Turismo",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "97",
+        "txtDescricaoOrgao": "Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "98",
+        "txtDescricaoOrgao": "Fundo de Desenvolvimento Urbano",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codOrgao": "99",
+        "txtDescricaoOrgao": "Fundo Municipal de Iluminação Pública",
+        "codigoEmpresa": "01",
+        "descricaoEmpresa": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      }
+    ]
+  }
+]

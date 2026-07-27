@@ -1,0 +1,3752 @@
+[
+  {
+    "metaDados": {
+      "txtMensagemErro": "",
+      "qtdPaginas": 1,
+      "txtStatus": "OK"
+    },
+    "lstProgramas": [
+      {
+        "codPrograma": "0000",
+        "txtDescricaoPrograma": "Encargos Especiais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0100",
+        "txtDescricaoPrograma": "Nascer, Viver e Morrer Bem",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0101",
+        "txtDescricaoPrograma": "Alistamento Militar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0102",
+        "txtDescricaoPrograma": "Programa Bolsa-Trabalho",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0103",
+        "txtDescricaoPrograma": "Saúde Integral ao Seu Alcance",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0104",
+        "txtDescricaoPrograma": "Políticas Públicas de Esporte, Lazer e Recreação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0105",
+        "txtDescricaoPrograma": "Orçamento Participativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0106",
+        "txtDescricaoPrograma": "Aperfeiçoamento na Área de Recursos Humanos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0107",
+        "txtDescricaoPrograma": "Estruturação de Sistema Público de Emprego",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0108",
+        "txtDescricaoPrograma": "Hospital Amigo da Família",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0109",
+        "txtDescricaoPrograma": "Rede Competência SUS-Municipal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0111",
+        "txtDescricaoPrograma": "Assistência a Moradores em Áreas de Risco",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0113",
+        "txtDescricaoPrograma": "Assistência Alimentar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0114",
+        "txtDescricaoPrograma": "Assistência Ambulatorial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0116",
+        "txtDescricaoPrograma": "Assistência e Tratamento do Alcoolismo na Pref. Munic. S.Paulo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0117",
+        "txtDescricaoPrograma": "Assistência Jurídica a Necessitados e Idosos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0118",
+        "txtDescricaoPrograma": "Assistência Social Geral",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0119",
+        "txtDescricaoPrograma": "Assistência a Criança e ao Adolescente",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0121",
+        "txtDescricaoPrograma": "Assistência a Pessoas com Deficiência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0122",
+        "txtDescricaoPrograma": "Atendimento de Primeiros Socorros ao Servidor Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0124",
+        "txtDescricaoPrograma": "Gestão Cidadã",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0125",
+        "txtDescricaoPrograma": "Atualiz.Confec. e Encadern. de Mapa Oficial da Cidade - MOC",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0127",
+        "txtDescricaoPrograma": "Benefícios a Servidores Ativos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0128",
+        "txtDescricaoPrograma": "Benefícios a Servidores Inativos/Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0129",
+        "txtDescricaoPrograma": "Benefícios a Servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0130",
+        "txtDescricaoPrograma": "Capacitação e Aperfeiçoamento de Profissionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0131",
+        "txtDescricaoPrograma": "Capacitação e Aperfeiçoamento do Servidor Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0133",
+        "txtDescricaoPrograma": "Cobrança da Dívida Ativa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0134",
+        "txtDescricaoPrograma": "Comunicação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0135",
+        "txtDescricaoPrograma": "Confecção e Atualização de Mapas de Valores Cadlog-PGV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0136",
+        "txtDescricaoPrograma": "Programa de Loteamento e Arruamento em Habitação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0139",
+        "txtDescricaoPrograma": "Controle e Erradicação de Endemias",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0140",
+        "txtDescricaoPrograma": "Controle e Segurança de Tráfego Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0143",
+        "txtDescricaoPrograma": "Crédito Popular Solidário - Banco do Povo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0144",
+        "txtDescricaoPrograma": "Defesa Civil - Prevenção e Emergência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0145",
+        "txtDescricaoPrograma": "Defesa Contra Sinistros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0146",
+        "txtDescricaoPrograma": "Programa Começar de Novo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0149",
+        "txtDescricaoPrograma": "Divulgação Oficial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0150",
+        "txtDescricaoPrograma": "Edificação de Próprios Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0151",
+        "txtDescricaoPrograma": "Educação a Criança - Creche",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0152",
+        "txtDescricaoPrograma": "Educação Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0153",
+        "txtDescricaoPrograma": "Educação Especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0155",
+        "txtDescricaoPrograma": "Eventos Esportivos, de Lazer e Recreação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0156",
+        "txtDescricaoPrograma": "Empregabilidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0157",
+        "txtDescricaoPrograma": "Ensino de Graduação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0158",
+        "txtDescricaoPrograma": "Ensino Fundamental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0159",
+        "txtDescricaoPrograma": "Ensino Supletivo e Profissionalizante",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0160",
+        "txtDescricaoPrograma": "Entrega de Avisos e Carnês de Tributos Imobiliários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0161",
+        "txtDescricaoPrograma": "Entrega de Avisos e Carnês de Tributos Mobiliários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0164",
+        "txtDescricaoPrograma": "Eventos Internacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0165",
+        "txtDescricaoPrograma": "Fiscalização Contábil, Financeira e Orçamentária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0166",
+        "txtDescricaoPrograma": "Formação do Patrimônio do Servidor Municipal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0169",
+        "txtDescricaoPrograma": "Gestão do Sistema de Informatização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0170",
+        "txtDescricaoPrograma": "Habitação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0171",
+        "txtDescricaoPrograma": "Herança Jacente",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0172",
+        "txtDescricaoPrograma": "Iluminação  Pública",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0173",
+        "txtDescricaoPrograma": "Indenização a Servidores Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0174",
+        "txtDescricaoPrograma": "Indenização por Desligamento Voluntário de Servidores Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0175",
+        "txtDescricaoPrograma": "Informações Geográficas e Estatísticas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0176",
+        "txtDescricaoPrograma": "Informatização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0177",
+        "txtDescricaoPrograma": "Investimento na Área de Informática",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0179",
+        "txtDescricaoPrograma": "Infra-Estrutura em Regiões Periféricas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0180",
+        "txtDescricaoPrograma": "Infra-Estrutura para o Desenvolvimento Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0181",
+        "txtDescricaoPrograma": "Infra-Estrutura para o Fluxo Viário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0182",
+        "txtDescricaoPrograma": "Intervenção no Sistema Viário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0183",
+        "txtDescricaoPrograma": "Investimento Habitacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0184",
+        "txtDescricaoPrograma": "Limpeza Hospitalar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0185",
+        "txtDescricaoPrograma": "Limpeza Pública",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0186",
+        "txtDescricaoPrograma": "Manutenção de Equipamentos em Geral",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0187",
+        "txtDescricaoPrograma": "Melhoria da Qualidade e Expansão do Atendimento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0189",
+        "txtDescricaoPrograma": "Quota Estadual Salário Educação - QESE",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0190",
+        "txtDescricaoPrograma": "Melhoria do Desempenho Profissional dos Servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0191",
+        "txtDescricaoPrograma": "Investimento em Transporte de Passageiros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0192",
+        "txtDescricaoPrograma": "Melhorias e Benfeitorias",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0193",
+        "txtDescricaoPrograma": "Investimento em Engenharia de Tráfego",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0194",
+        "txtDescricaoPrograma": "Estudo para Ocupação Ordenada do Espaço Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0195",
+        "txtDescricaoPrograma": "Ordenamento de Estratégias de Ações Ambientais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0197",
+        "txtDescricaoPrograma": "Planejamento e Desenvolvimento Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0198",
+        "txtDescricaoPrograma": "Policiamento Civil",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0199",
+        "txtDescricaoPrograma": "Policiamento de Trânsito",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0200",
+        "txtDescricaoPrograma": "Políticas Habitacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0201",
+        "txtDescricaoPrograma": "Prevenção e Defesa Contra Inundações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0202",
+        "txtDescricaoPrograma": "Previdência ao Pensionista Municipal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0203",
+        "txtDescricaoPrograma": "Previdência Complementar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0204",
+        "txtDescricaoPrograma": "Previdência dos Servidores Públicos Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0205",
+        "txtDescricaoPrograma": "Previdência Social",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0206",
+        "txtDescricaoPrograma": "Previdência Social a Inativos e Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0207",
+        "txtDescricaoPrograma": "Previdência Social a Segurados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0208",
+        "txtDescricaoPrograma": "Processamento de Feitos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0209",
+        "txtDescricaoPrograma": "Processo Legislativo e de Fiscalização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0210",
+        "txtDescricaoPrograma": "Produção de Lixo Reciclado",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0211",
+        "txtDescricaoPrograma": "Produção de Massa Asfáltica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0212",
+        "txtDescricaoPrograma": "Programa Bolsa-Escola",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0214",
+        "txtDescricaoPrograma": "Programa de Controle de Qualidade Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0215",
+        "txtDescricaoPrograma": "Programa de Emprego e Renda",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0216",
+        "txtDescricaoPrograma": "Programa de Estagiários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0217",
+        "txtDescricaoPrograma": "Programa de Estímulo Cultural",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0220",
+        "txtDescricaoPrograma": "Programa de Revitalização e Construção de Habitações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0221",
+        "txtDescricaoPrograma": "Programa de Melhoria Urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0224",
+        "txtDescricaoPrograma": "Programa de  Prevenção e Defesa Contra Inundações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0225",
+        "txtDescricaoPrograma": "Programa de Proteção ao Meio Ambiente",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0226",
+        "txtDescricaoPrograma": "Promoção de Turismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0227",
+        "txtDescricaoPrograma": "Promoção e Apoio de Atividades Culturais Cívicas e Turísticas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0228",
+        "txtDescricaoPrograma": "Recuperação de Áreas Degradadas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0231",
+        "txtDescricaoPrograma": "Suporte Educacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0232",
+        "txtDescricaoPrograma": "Repasse ao FUNSET - Lei",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0234",
+        "txtDescricaoPrograma": "Revitalização de Áreas Urbanas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0235",
+        "txtDescricaoPrograma": "Saneamento Ambiental em Bacias Hidrográficas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0236",
+        "txtDescricaoPrograma": "Segurança do Patrimônio Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0237",
+        "txtDescricaoPrograma": "Segurança Escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0238",
+        "txtDescricaoPrograma": "Promoção do Esporte",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0239",
+        "txtDescricaoPrograma": "Serviço Funerário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0240",
+        "txtDescricaoPrograma": "Serviços de Informações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0241",
+        "txtDescricaoPrograma": "Serviços de Inspeção e Segurança",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0242",
+        "txtDescricaoPrograma": "Serviços de Manutenção de Parques e Viveiros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0243",
+        "txtDescricaoPrograma": "Serviços de Manutenção e Saneamento Básico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0244",
+        "txtDescricaoPrograma": "Serviços de Manutenção em Áreas Ajardinadas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0245",
+        "txtDescricaoPrograma": "Serviços de Manutenção em Obras Públicas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0246",
+        "txtDescricaoPrograma": "Serviços de Manutenção em Vias Públicas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0247",
+        "txtDescricaoPrograma": "Serviços de Microfilmagem",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0248",
+        "txtDescricaoPrograma": "Serviços de Transporte Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0249",
+        "txtDescricaoPrograma": "Serviços Diversos de Manutenção Urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0251",
+        "txtDescricaoPrograma": "Suporte Administrativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0252",
+        "txtDescricaoPrograma": "Suporte Financeiro",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0253",
+        "txtDescricaoPrograma": "Ação Coletiva do Trabalho",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0255",
+        "txtDescricaoPrograma": "Transporte Metropolitano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0256",
+        "txtDescricaoPrograma": "Transporte Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0257",
+        "txtDescricaoPrograma": "Urbanismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0258",
+        "txtDescricaoPrograma": "Investimento em Turismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0259",
+        "txtDescricaoPrograma": "Infra-Estrutura para o Saneamento Básico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0260",
+        "txtDescricaoPrograma": "Educação Pré-Escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0261",
+        "txtDescricaoPrograma": "Ensino Médio",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0262",
+        "txtDescricaoPrograma": "Controle de Qualidade dos Alimentos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0263",
+        "txtDescricaoPrograma": "Abastecimento - Controle e Fiscalização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0264",
+        "txtDescricaoPrograma": "Assistência Técnica Agropecuária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0265",
+        "txtDescricaoPrograma": "Programa Municipal de Alimentação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0266",
+        "txtDescricaoPrograma": "Programa de Gestão e Controle do Impacto Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0267",
+        "txtDescricaoPrograma": "Programa Nacional de Alimentação Escolar - PNAE/FNDE",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0268",
+        "txtDescricaoPrograma": "Conservação e  Melhoria da Qualidade do Desporto e Lazer",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0269",
+        "txtDescricaoPrograma": "Investimento em Urbanização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0270",
+        "txtDescricaoPrograma": "Controle e Fiscalização de Centros de Abastecimento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0271",
+        "txtDescricaoPrograma": "Programas de Abastecimento à Comunidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0272",
+        "txtDescricaoPrograma": "Programa de Banco de Alimentos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0273",
+        "txtDescricaoPrograma": "Programa de Incentivo da Produção Agrícola",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0274",
+        "txtDescricaoPrograma": "Planejamento Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0275",
+        "txtDescricaoPrograma": "Assistência às Pessoas Idosas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0276",
+        "txtDescricaoPrograma": "Assistência à População de Rua",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0278",
+        "txtDescricaoPrograma": "Prog. Canal. Cor. Impl. Vias e Recup. Amb. e Soc. Fundo Vale - PROCAV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0279",
+        "txtDescricaoPrograma": "Ampliação e Benfeitorias - Obras",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0282",
+        "txtDescricaoPrograma": "Previdência Social a Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0283",
+        "txtDescricaoPrograma": "Previdência Social a Segurados e Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0284",
+        "txtDescricaoPrograma": "Comércio de Serviços Funerários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0285",
+        "txtDescricaoPrograma": "Aperfeiçoamento Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0286",
+        "txtDescricaoPrograma": "Assistência Médico-Hospitalar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0287",
+        "txtDescricaoPrograma": "Locação de Leitos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0288",
+        "txtDescricaoPrograma": "Serviços Médicos Contratados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0289",
+        "txtDescricaoPrograma": "Assistência Farmacêutica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0290",
+        "txtDescricaoPrograma": "Fundo de Manutenção e Melhoria",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0291",
+        "txtDescricaoPrograma": "Reembolso ao Serviço Funerário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0292",
+        "txtDescricaoPrograma": "Divulgação do Legislativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0293",
+        "txtDescricaoPrograma": "Programa de Capacitação Ocupacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0294",
+        "txtDescricaoPrograma": "Programa de Alocação de Trabalhadores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0295",
+        "txtDescricaoPrograma": "Programa de Reestruturação Prod. e  Relações do Trabalho",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0296",
+        "txtDescricaoPrograma": "Promoção do Desporto Educacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0297",
+        "txtDescricaoPrograma": "Programa Bolsa-Educação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0300",
+        "txtDescricaoPrograma": "Alfabetização de Jovens e Adultos - MOVA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0301",
+        "txtDescricaoPrograma": "Educação de Jovens e Adultos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0302",
+        "txtDescricaoPrograma": "Sistema de Gestão de Informações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0303",
+        "txtDescricaoPrograma": "Garantia de Acesso e Permanência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0304",
+        "txtDescricaoPrograma": "Educação Integrada",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0305",
+        "txtDescricaoPrograma": "Teatros Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0306",
+        "txtDescricaoPrograma": "Bibliotecas Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0307",
+        "txtDescricaoPrograma": "Patrimônio Histórico, Artístico e Arqueológico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0308",
+        "txtDescricaoPrograma": "Prevenção a Enchentes",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0309",
+        "txtDescricaoPrograma": "Revitalização de Bairros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0310",
+        "txtDescricaoPrograma": "Contenção em Áreas de Risco Geológico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0311",
+        "txtDescricaoPrograma": "Programas de Estudos Astronômicos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0312",
+        "txtDescricaoPrograma": "Combate à Pobreza, à Desigualdade e ao Desemprego",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0313",
+        "txtDescricaoPrograma": "Programa de Recuperação Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0314",
+        "txtDescricaoPrograma": "Inclusão Digital",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0315",
+        "txtDescricaoPrograma": "Coleta Seletiva Solidária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0316",
+        "txtDescricaoPrograma": "Promoção de Relações Nacionais e Internacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0317",
+        "txtDescricaoPrograma": "Ação Centro-BID",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0318",
+        "txtDescricaoPrograma": "Promoção da Cidadania",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0319",
+        "txtDescricaoPrograma": "Confecção e Atualização de Mapas e Planta Genérica de Valores-Cadlog",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0320",
+        "txtDescricaoPrograma": "Gestão de Consumo de Energia Elétrica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0321",
+        "txtDescricaoPrograma": "Ensino Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0322",
+        "txtDescricaoPrograma": "Integralidade da Atenção",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0323",
+        "txtDescricaoPrograma": "Fortalecimento de Assistência à Saúde",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0324",
+        "txtDescricaoPrograma": "SUS com Qualidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0325",
+        "txtDescricaoPrograma": "Capacitação Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0326",
+        "txtDescricaoPrograma": "Desenvolvimento Territorial/Setorial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0327",
+        "txtDescricaoPrograma": "Serviços Integrados ao Trabalhador",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0328",
+        "txtDescricaoPrograma": "Ampliação do Tempo de Permanência do Aluno",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0329",
+        "txtDescricaoPrograma": "Educação Indígena",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0330",
+        "txtDescricaoPrograma": "Ensino Técnico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0331",
+        "txtDescricaoPrograma": "Educação Infantil",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0332",
+        "txtDescricaoPrograma": "Qualidade do Ensino e Formação Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0333",
+        "txtDescricaoPrograma": "Mobilidade e Acessibilidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0334",
+        "txtDescricaoPrograma": "Qualidade de Vida Urbana e Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0335",
+        "txtDescricaoPrograma": "Integração Metropolitana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0336",
+        "txtDescricaoPrograma": "Operações Especiais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0337",
+        "txtDescricaoPrograma": "Promoção de Desenvolvimento Local",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0338",
+        "txtDescricaoPrograma": "Promoção de Acessibilidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0339",
+        "txtDescricaoPrograma": "Proteção ao Meio Ambiente e a Qualidade de Vida",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0340",
+        "txtDescricaoPrograma": "Sistema de Informação e Processamento de Dados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0341",
+        "txtDescricaoPrograma": "Fortalecimento Institucional e Melhoria da Gestão",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0342",
+        "txtDescricaoPrograma": "Reabilitação Social no Centro",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0343",
+        "txtDescricaoPrograma": "Assistência e Desenvolvimento Social à Família-Proteção Social Básica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0344",
+        "txtDescricaoPrograma": "Assistência à Pessoa em Situação de Risco-Proteção Social e Especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0345",
+        "txtDescricaoPrograma": "Mananciais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0346",
+        "txtDescricaoPrograma": "Regularização de Loteamentos Irregulares",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0347",
+        "txtDescricaoPrograma": "Revitalização de Empreendimentos Habitacionais (3R s)",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0348",
+        "txtDescricaoPrograma": "Produção de Soluções de Moradia",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0349",
+        "txtDescricaoPrograma": "Proteção Cidadã",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0350",
+        "txtDescricaoPrograma": "Promoção e Defesa dos Direitos Humanos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0351",
+        "txtDescricaoPrograma": "Gestão Tributária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0352",
+        "txtDescricaoPrograma": "Programa Municipal de Alimentação Escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0353",
+        "txtDescricaoPrograma": "Programa de Abastecimento à Comunidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0354",
+        "txtDescricaoPrograma": "Governo Eletrônico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0355",
+        "txtDescricaoPrograma": "Assistência Farmacêutica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0356",
+        "txtDescricaoPrograma": "Programa Municipal de Parcerias Público-Privadas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1111",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - Integralidade da atenção",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1112",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - Fortalecimento de assistência a saúde",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1113",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - SUS com qualidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1114",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - Assistência farmacêutica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1121",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação infantil",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1122",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Ensino fundamental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1123",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação de jovens e adultos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1124",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação integrada",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1125",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1126",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Ampliação do tempo de permanência do aluno",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1127",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Formação, Avaliação e Aprimoramento do Ensino",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1128",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Alimentação escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1131",
+        "txtDescricaoPrograma": "Acesso à moradia - Urbanização de favelas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1132",
+        "txtDescricaoPrograma": "Acesso à moradia - Regularização fundiária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1133",
+        "txtDescricaoPrograma": "Acesso à moradia - Ações de habitação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1141",
+        "txtDescricaoPrograma": "Fortalecimento da rede de proteção social - Básica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1142",
+        "txtDescricaoPrograma": "Fortalecimento da rede de proteção social - Especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1143",
+        "txtDescricaoPrograma": "Fortalecimento da rede de proteção social - Assistência Geral",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1150",
+        "txtDescricaoPrograma": "Ampliação das políticas de inclusão para cidadãos com deficiência e mobilidade reduzida",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1160",
+        "txtDescricaoPrograma": "Defesa dos direitos humanos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1170",
+        "txtDescricaoPrograma": "Ampliação da proteção ao cidadão",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1210",
+        "txtDescricaoPrograma": "Cidade mais verde",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1220",
+        "txtDescricaoPrograma": "Preservação dos recursos hídricos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1230",
+        "txtDescricaoPrograma": "Melhoria da drenagem urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1240",
+        "txtDescricaoPrograma": "Gestão adequada dos resíduos sólidos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1250",
+        "txtDescricaoPrograma": "Redução das emissões de poluentes na atmosfera",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1261",
+        "txtDescricaoPrograma": "Melhoria da mobilidade urbana - Eficiência no trânsito",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1262",
+        "txtDescricaoPrograma": "Melhoria da mobilidade urbana - Transporte público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1263",
+        "txtDescricaoPrograma": "Melhoria da mobilidade urbana - Integração metropolitana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1270",
+        "txtDescricaoPrograma": "Ações de economia sustentável",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1280",
+        "txtDescricaoPrograma": "Incentivo à cultura de paz",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1310",
+        "txtDescricaoPrograma": "Fortalecimento/Requalificação do Centro - BID",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1320",
+        "txtDescricaoPrograma": "Incentivo à produção cultural e à interação criativa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1330",
+        "txtDescricaoPrograma": "Consolidação da cidade como marco nacional em esporte e lazer",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1340",
+        "txtDescricaoPrograma": "Afirmação da cidade como referência mundial em eventos e turismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1410",
+        "txtDescricaoPrograma": "Estímulo ao emprego e à qualificação dos trabalhadores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1420",
+        "txtDescricaoPrograma": "Incentivo ao empreendedorismo e ao ambiente de negócios",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1430",
+        "txtDescricaoPrograma": "Atração de novos parceiros e investimentos internacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1440",
+        "txtDescricaoPrograma": "Priorização de áreas estratégicas para a criação de empregos e negócios",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1450",
+        "txtDescricaoPrograma": "Promoção do desenvolvimento econômico e social da Zona Leste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1460",
+        "txtDescricaoPrograma": "Aprimoramento da infraestrutura urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1510",
+        "txtDescricaoPrograma": "Agilidade nos processos internos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1520",
+        "txtDescricaoPrograma": "Eficiência e transparência na gestão dos recursos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1530",
+        "txtDescricaoPrograma": "Qualidade da receita e da despesa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1540",
+        "txtDescricaoPrograma": "Capacitação do funcionalismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2110",
+        "txtDescricaoPrograma": "Melhoria da qualidade do ensino - Ensino Médio",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2120",
+        "txtDescricaoPrograma": "Melhoria da qualidade do ensino - Ensino Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2130",
+        "txtDescricaoPrograma": "Defesa Civil - Prevenção e Emergência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2140",
+        "txtDescricaoPrograma": "Serviço Funerário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2210",
+        "txtDescricaoPrograma": "Gerenciamento do sistema de abastecimento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2310",
+        "txtDescricaoPrograma": "Patrimônio histórico, artístico e arqueológico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2320",
+        "txtDescricaoPrograma": "Promoção de atividades culturais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2610",
+        "txtDescricaoPrograma": "Suporte administrativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2620",
+        "txtDescricaoPrograma": "Sistema de informação e processamento de dados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2710",
+        "txtDescricaoPrograma": "Processo Legislativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2810",
+        "txtDescricaoPrograma": "Controle Externo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2910",
+        "txtDescricaoPrograma": "Ile de France",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2920",
+        "txtDescricaoPrograma": "Divulgação Oficial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2930",
+        "txtDescricaoPrograma": "Projeto de Inclusão Social Urbana - Nós do Centro/União Européia",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2940",
+        "txtDescricaoPrograma": "Previdência dos servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2950",
+        "txtDescricaoPrograma": "Benefícios a servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3001",
+        "txtDescricaoPrograma": "Acesso à Cultura",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3002",
+        "txtDescricaoPrograma": "Acesso à Moradia Adequada ",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3003",
+        "txtDescricaoPrograma": "Ações e Serviços da Saúde em Atenção Básica, Especialidades e Vigilância",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3004",
+        "txtDescricaoPrograma": "Benefícios e Previdência de Funcionários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3005",
+        "txtDescricaoPrograma": "Promoção da Sustentabilidade Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3006",
+        "txtDescricaoPrograma": "Promoção dos Direitos da Pessoa com Deficiência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3007",
+        "txtDescricaoPrograma": "Promoção dos Direitos da População Idosa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3008",
+        "txtDescricaoPrograma": "Gestão dos Riscos e Promoção da Resiliência a Desastres e Eventos Críticos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3009",
+        "txtDescricaoPrograma": "Melhoria da Mobilidade Urbana Universal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3010",
+        "txtDescricaoPrograma": "Manutenção, Desenvolvimento e Promoção da Qualidade da Educação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3011",
+        "txtDescricaoPrograma": "Modernização Tecnológica, Desburocratização e Inovação do Serviço Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3012",
+        "txtDescricaoPrograma": "Participação, Transparência e Controle Social da Administração Pública",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3013",
+        "txtDescricaoPrograma": "Promoção da Segurança Urbana, Prevenção e Proteção às Vítimas de Violência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3014",
+        "txtDescricaoPrograma": "Processo Legislativo e Controle Externo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3015",
+        "txtDescricaoPrograma": "Promoção da Cidade como Referência Global e Destino Turístico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3016",
+        "txtDescricaoPrograma": "Nutrição e Promoção da Segurança Alimentar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3017",
+        "txtDescricaoPrograma": "Promoção de Atividades Esportivas, Recreativas e de Lazer",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3018",
+        "txtDescricaoPrograma": "Promoção da Cidadania, Inclusão Digital e Valorização da Diversidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3019",
+        "txtDescricaoPrograma": "Promoção do Crescimento Econômico e Geração de Postos de Trabalho e Oportunidades",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3020",
+        "txtDescricaoPrograma": "Promoção da Economia Criativa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3021",
+        "txtDescricaoPrograma": "Qualidade, Eficiência e Sustentabilidade do Orçamento Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3022",
+        "txtDescricaoPrograma": "Requalificação e Promoção da Ocupação dos Espaços Públicos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3023",
+        "txtDescricaoPrograma": "Proteção à População em Situação de Vulnerabilidade Social",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3024",
+        "txtDescricaoPrograma": "Suporte Administrativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3025",
+        "txtDescricaoPrograma": "Proteção e Desenvolvimento Integral na Primeira Infância",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3026",
+        "txtDescricaoPrograma": "Ações e Serviços da Saúde em Atenção Hospitalar e de Urgência e Emergência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3027",
+        "txtDescricaoPrograma": "Ações e Serviços da Saúde Animal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "9999",
+        "txtDescricaoPrograma": "Reserva de Contingência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      }
+    ]
+  },
+  {
+    "metaDados": {
+      "txtMensagemErro": "",
+      "qtdPaginas": 1,
+      "txtStatus": "OK"
+    },
+    "lstProgramas": [
+      {
+        "codPrograma": "0000",
+        "txtDescricaoPrograma": "Encargos Especiais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0100",
+        "txtDescricaoPrograma": "Nascer, Viver e Morrer Bem",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0101",
+        "txtDescricaoPrograma": "Alistamento Militar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0102",
+        "txtDescricaoPrograma": "Programa Bolsa-Trabalho",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0103",
+        "txtDescricaoPrograma": "Saúde Integral ao Seu Alcance",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0104",
+        "txtDescricaoPrograma": "Políticas Públicas de Esporte, Lazer e Recreação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0105",
+        "txtDescricaoPrograma": "Orçamento Participativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0106",
+        "txtDescricaoPrograma": "Aperfeiçoamento na Área de Recursos Humanos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0107",
+        "txtDescricaoPrograma": "Estruturação de Sistema Público de Emprego",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0108",
+        "txtDescricaoPrograma": "Hospital Amigo da Família",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0109",
+        "txtDescricaoPrograma": "Rede Competência SUS-Municipal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0111",
+        "txtDescricaoPrograma": "Assistência a Moradores em Áreas de Risco",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0113",
+        "txtDescricaoPrograma": "Assistência Alimentar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0114",
+        "txtDescricaoPrograma": "Assistência Ambulatorial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0116",
+        "txtDescricaoPrograma": "Assistência e Tratamento do Alcoolismo na Pref. Munic. S.Paulo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0117",
+        "txtDescricaoPrograma": "Assistência Jurídica a Necessitados e Idosos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0118",
+        "txtDescricaoPrograma": "Assistência Social Geral",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0119",
+        "txtDescricaoPrograma": "Assistência a Criança e ao Adolescente",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0121",
+        "txtDescricaoPrograma": "Assistência a Pessoas com Deficiência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0122",
+        "txtDescricaoPrograma": "Atendimento de Primeiros Socorros ao Servidor Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0124",
+        "txtDescricaoPrograma": "Gestão Cidadã",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0125",
+        "txtDescricaoPrograma": "Atualiz.Confec. e Encadern. de Mapa Oficial da Cidade - MOC",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0127",
+        "txtDescricaoPrograma": "Benefícios a Servidores Ativos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0128",
+        "txtDescricaoPrograma": "Benefícios a Servidores Inativos/Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0129",
+        "txtDescricaoPrograma": "Benefícios a Servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0130",
+        "txtDescricaoPrograma": "Capacitação e Aperfeiçoamento de Profissionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0131",
+        "txtDescricaoPrograma": "Capacitação e Aperfeiçoamento do Servidor Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0133",
+        "txtDescricaoPrograma": "Cobrança da Dívida Ativa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0134",
+        "txtDescricaoPrograma": "Comunicação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0135",
+        "txtDescricaoPrograma": "Confecção e Atualização de Mapas de Valores Cadlog-PGV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0136",
+        "txtDescricaoPrograma": "Programa de Loteamento e Arruamento em Habitação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0139",
+        "txtDescricaoPrograma": "Controle e Erradicação de Endemias",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0140",
+        "txtDescricaoPrograma": "Controle e Segurança de Tráfego Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0143",
+        "txtDescricaoPrograma": "Crédito Popular Solidário - Banco do Povo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0144",
+        "txtDescricaoPrograma": "Defesa Civil - Prevenção e Emergência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0145",
+        "txtDescricaoPrograma": "Defesa Contra Sinistros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0146",
+        "txtDescricaoPrograma": "Programa Começar de Novo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0149",
+        "txtDescricaoPrograma": "Divulgação Oficial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0150",
+        "txtDescricaoPrograma": "Edificação de Próprios Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0151",
+        "txtDescricaoPrograma": "Educação a Criança - Creche",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0152",
+        "txtDescricaoPrograma": "Educação Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0153",
+        "txtDescricaoPrograma": "Educação Especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0155",
+        "txtDescricaoPrograma": "Eventos Esportivos, de Lazer e Recreação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0156",
+        "txtDescricaoPrograma": "Empregabilidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0157",
+        "txtDescricaoPrograma": "Ensino de Graduação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0158",
+        "txtDescricaoPrograma": "Ensino Fundamental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0159",
+        "txtDescricaoPrograma": "Ensino Supletivo e Profissionalizante",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0160",
+        "txtDescricaoPrograma": "Entrega de Avisos e Carnês de Tributos Imobiliários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0161",
+        "txtDescricaoPrograma": "Entrega de Avisos e Carnês de Tributos Mobiliários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0164",
+        "txtDescricaoPrograma": "Eventos Internacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0165",
+        "txtDescricaoPrograma": "Fiscalização Contábil, Financeira e Orçamentária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0166",
+        "txtDescricaoPrograma": "Formação do Patrimônio do Servidor Municipal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0169",
+        "txtDescricaoPrograma": "Gestão do Sistema de Informatização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0170",
+        "txtDescricaoPrograma": "Habitação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0171",
+        "txtDescricaoPrograma": "Herança Jacente",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0172",
+        "txtDescricaoPrograma": "Iluminação  Pública",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0173",
+        "txtDescricaoPrograma": "Indenização a Servidores Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0174",
+        "txtDescricaoPrograma": "Indenização por Desligamento Voluntário de Servidores Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0175",
+        "txtDescricaoPrograma": "Informações Geográficas e Estatísticas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0176",
+        "txtDescricaoPrograma": "Informatização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0177",
+        "txtDescricaoPrograma": "Investimento na Área de Informática",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0179",
+        "txtDescricaoPrograma": "Infra-Estrutura em Regiões Periféricas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0180",
+        "txtDescricaoPrograma": "Infra-Estrutura para o Desenvolvimento Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0181",
+        "txtDescricaoPrograma": "Infra-Estrutura para o Fluxo Viário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0182",
+        "txtDescricaoPrograma": "Intervenção no Sistema Viário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0183",
+        "txtDescricaoPrograma": "Investimento Habitacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0184",
+        "txtDescricaoPrograma": "Limpeza Hospitalar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0185",
+        "txtDescricaoPrograma": "Limpeza Pública",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0186",
+        "txtDescricaoPrograma": "Manutenção de Equipamentos em Geral",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0187",
+        "txtDescricaoPrograma": "Melhoria da Qualidade e Expansão do Atendimento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0189",
+        "txtDescricaoPrograma": "Quota Estadual Salário Educação - QESE",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0190",
+        "txtDescricaoPrograma": "Melhoria do Desempenho Profissional dos Servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0191",
+        "txtDescricaoPrograma": "Investimento em Transporte de Passageiros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0192",
+        "txtDescricaoPrograma": "Melhorias e Benfeitorias",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0193",
+        "txtDescricaoPrograma": "Investimento em Engenharia de Tráfego",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0194",
+        "txtDescricaoPrograma": "Estudo para Ocupação Ordenada do Espaço Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0195",
+        "txtDescricaoPrograma": "Ordenamento de Estratégias de Ações Ambientais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0197",
+        "txtDescricaoPrograma": "Planejamento e Desenvolvimento Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0198",
+        "txtDescricaoPrograma": "Policiamento Civil",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0199",
+        "txtDescricaoPrograma": "Policiamento de Trânsito",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0200",
+        "txtDescricaoPrograma": "Políticas Habitacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0201",
+        "txtDescricaoPrograma": "Prevenção e Defesa Contra Inundações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0202",
+        "txtDescricaoPrograma": "Previdência ao Pensionista Municipal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0203",
+        "txtDescricaoPrograma": "Previdência Complementar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0204",
+        "txtDescricaoPrograma": "Previdência dos Servidores Públicos Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0205",
+        "txtDescricaoPrograma": "Previdência Social",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0206",
+        "txtDescricaoPrograma": "Previdência Social a Inativos e Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0207",
+        "txtDescricaoPrograma": "Previdência Social a Segurados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0208",
+        "txtDescricaoPrograma": "Processamento de Feitos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0209",
+        "txtDescricaoPrograma": "Processo Legislativo e de Fiscalização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0210",
+        "txtDescricaoPrograma": "Produção de Lixo Reciclado",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0211",
+        "txtDescricaoPrograma": "Produção de Massa Asfáltica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0212",
+        "txtDescricaoPrograma": "Programa Bolsa-Escola",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0214",
+        "txtDescricaoPrograma": "Programa de Controle de Qualidade Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0215",
+        "txtDescricaoPrograma": "Programa de Emprego e Renda",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0216",
+        "txtDescricaoPrograma": "Programa de Estagiários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0217",
+        "txtDescricaoPrograma": "Programa de Estímulo Cultural",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0220",
+        "txtDescricaoPrograma": "Programa de Revitalização e Construção de Habitações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0221",
+        "txtDescricaoPrograma": "Programa de Melhoria Urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0224",
+        "txtDescricaoPrograma": "Programa de  Prevenção e Defesa Contra Inundações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0225",
+        "txtDescricaoPrograma": "Programa de Proteção ao Meio Ambiente",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0226",
+        "txtDescricaoPrograma": "Promoção de Turismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0227",
+        "txtDescricaoPrograma": "Promoção e Apoio de Atividades Culturais Cívicas e Turísticas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0228",
+        "txtDescricaoPrograma": "Recuperação de Áreas Degradadas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0231",
+        "txtDescricaoPrograma": "Suporte Educacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0232",
+        "txtDescricaoPrograma": "Repasse ao FUNSET - Lei",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0234",
+        "txtDescricaoPrograma": "Revitalização de Áreas Urbanas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0235",
+        "txtDescricaoPrograma": "Saneamento Ambiental em Bacias Hidrográficas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0236",
+        "txtDescricaoPrograma": "Segurança do Patrimônio Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0237",
+        "txtDescricaoPrograma": "Segurança Escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0238",
+        "txtDescricaoPrograma": "Promoção do Esporte",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0239",
+        "txtDescricaoPrograma": "Serviço Funerário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0240",
+        "txtDescricaoPrograma": "Serviços de Informações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0241",
+        "txtDescricaoPrograma": "Serviços de Inspeção e Segurança",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0242",
+        "txtDescricaoPrograma": "Serviços de Manutenção de Parques e Viveiros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0243",
+        "txtDescricaoPrograma": "Serviços de Manutenção e Saneamento Básico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0244",
+        "txtDescricaoPrograma": "Serviços de Manutenção em Áreas Ajardinadas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0245",
+        "txtDescricaoPrograma": "Serviços de Manutenção em Obras Públicas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0246",
+        "txtDescricaoPrograma": "Serviços de Manutenção em Vias Públicas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0247",
+        "txtDescricaoPrograma": "Serviços de Microfilmagem",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0248",
+        "txtDescricaoPrograma": "Serviços de Transporte Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0249",
+        "txtDescricaoPrograma": "Serviços Diversos de Manutenção Urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0251",
+        "txtDescricaoPrograma": "Suporte Administrativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0252",
+        "txtDescricaoPrograma": "Suporte Financeiro",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0253",
+        "txtDescricaoPrograma": "Ação Coletiva do Trabalho",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0255",
+        "txtDescricaoPrograma": "Transporte Metropolitano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0256",
+        "txtDescricaoPrograma": "Transporte Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0257",
+        "txtDescricaoPrograma": "Urbanismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0258",
+        "txtDescricaoPrograma": "Investimento em Turismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0259",
+        "txtDescricaoPrograma": "Infra-Estrutura para o Saneamento Básico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0260",
+        "txtDescricaoPrograma": "Educação Pré-Escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0261",
+        "txtDescricaoPrograma": "Ensino Médio",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0262",
+        "txtDescricaoPrograma": "Controle de Qualidade dos Alimentos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0263",
+        "txtDescricaoPrograma": "Abastecimento - Controle e Fiscalização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0264",
+        "txtDescricaoPrograma": "Assistência Técnica Agropecuária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0265",
+        "txtDescricaoPrograma": "Programa Municipal de Alimentação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0266",
+        "txtDescricaoPrograma": "Programa de Gestão e Controle do Impacto Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0267",
+        "txtDescricaoPrograma": "Programa Nacional de Alimentação Escolar - PNAE/FNDE",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0268",
+        "txtDescricaoPrograma": "Conservação e  Melhoria da Qualidade do Desporto e Lazer",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0269",
+        "txtDescricaoPrograma": "Investimento em Urbanização",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0270",
+        "txtDescricaoPrograma": "Controle e Fiscalização de Centros de Abastecimento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0271",
+        "txtDescricaoPrograma": "Programas de Abastecimento à Comunidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0272",
+        "txtDescricaoPrograma": "Programa de Banco de Alimentos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0273",
+        "txtDescricaoPrograma": "Programa de Incentivo da Produção Agrícola",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0274",
+        "txtDescricaoPrograma": "Planejamento Urbano",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0275",
+        "txtDescricaoPrograma": "Assistência às Pessoas Idosas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0276",
+        "txtDescricaoPrograma": "Assistência à População de Rua",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0278",
+        "txtDescricaoPrograma": "Prog. Canal. Cor. Impl. Vias e Recup. Amb. e Soc. Fundo Vale - PROCAV",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0279",
+        "txtDescricaoPrograma": "Ampliação e Benfeitorias - Obras",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0282",
+        "txtDescricaoPrograma": "Previdência Social a Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0283",
+        "txtDescricaoPrograma": "Previdência Social a Segurados e Pensionistas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0284",
+        "txtDescricaoPrograma": "Comércio de Serviços Funerários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0285",
+        "txtDescricaoPrograma": "Aperfeiçoamento Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0286",
+        "txtDescricaoPrograma": "Assistência Médico-Hospitalar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0287",
+        "txtDescricaoPrograma": "Locação de Leitos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0288",
+        "txtDescricaoPrograma": "Serviços Médicos Contratados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0289",
+        "txtDescricaoPrograma": "Assistência Farmacêutica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0290",
+        "txtDescricaoPrograma": "Fundo de Manutenção e Melhoria",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0291",
+        "txtDescricaoPrograma": "Reembolso ao Serviço Funerário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0292",
+        "txtDescricaoPrograma": "Divulgação do Legislativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0293",
+        "txtDescricaoPrograma": "Programa de Capacitação Ocupacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0294",
+        "txtDescricaoPrograma": "Programa de Alocação de Trabalhadores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0295",
+        "txtDescricaoPrograma": "Programa de Reestruturação Prod. e  Relações do Trabalho",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0296",
+        "txtDescricaoPrograma": "Promoção do Desporto Educacional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0297",
+        "txtDescricaoPrograma": "Programa Bolsa-Educação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0300",
+        "txtDescricaoPrograma": "Alfabetização de Jovens e Adultos - MOVA",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0301",
+        "txtDescricaoPrograma": "Educação de Jovens e Adultos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0302",
+        "txtDescricaoPrograma": "Sistema de Gestão de Informações",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0303",
+        "txtDescricaoPrograma": "Garantia de Acesso e Permanência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0304",
+        "txtDescricaoPrograma": "Educação Integrada",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0305",
+        "txtDescricaoPrograma": "Teatros Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0306",
+        "txtDescricaoPrograma": "Bibliotecas Municipais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0307",
+        "txtDescricaoPrograma": "Patrimônio Histórico, Artístico e Arqueológico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0308",
+        "txtDescricaoPrograma": "Prevenção a Enchentes",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0309",
+        "txtDescricaoPrograma": "Revitalização de Bairros",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0310",
+        "txtDescricaoPrograma": "Contenção em Áreas de Risco Geológico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0311",
+        "txtDescricaoPrograma": "Programas de Estudos Astronômicos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0312",
+        "txtDescricaoPrograma": "Combate à Pobreza, à Desigualdade e ao Desemprego",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0313",
+        "txtDescricaoPrograma": "Programa de Recuperação Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0314",
+        "txtDescricaoPrograma": "Inclusão Digital",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0315",
+        "txtDescricaoPrograma": "Coleta Seletiva Solidária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0316",
+        "txtDescricaoPrograma": "Promoção de Relações Nacionais e Internacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0317",
+        "txtDescricaoPrograma": "Ação Centro-BID",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0318",
+        "txtDescricaoPrograma": "Promoção da Cidadania",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0319",
+        "txtDescricaoPrograma": "Confecção e Atualização de Mapas e Planta Genérica de Valores-Cadlog",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0320",
+        "txtDescricaoPrograma": "Gestão de Consumo de Energia Elétrica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0321",
+        "txtDescricaoPrograma": "Ensino Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0322",
+        "txtDescricaoPrograma": "Integralidade da Atenção",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0323",
+        "txtDescricaoPrograma": "Fortalecimento de Assistência à Saúde",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0324",
+        "txtDescricaoPrograma": "SUS com Qualidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0325",
+        "txtDescricaoPrograma": "Capacitação Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0326",
+        "txtDescricaoPrograma": "Desenvolvimento Territorial/Setorial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0327",
+        "txtDescricaoPrograma": "Serviços Integrados ao Trabalhador",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0328",
+        "txtDescricaoPrograma": "Ampliação do Tempo de Permanência do Aluno",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0329",
+        "txtDescricaoPrograma": "Educação Indígena",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0330",
+        "txtDescricaoPrograma": "Ensino Técnico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0331",
+        "txtDescricaoPrograma": "Educação Infantil",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0332",
+        "txtDescricaoPrograma": "Qualidade do Ensino e Formação Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0333",
+        "txtDescricaoPrograma": "Mobilidade e Acessibilidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0334",
+        "txtDescricaoPrograma": "Qualidade de Vida Urbana e Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0335",
+        "txtDescricaoPrograma": "Integração Metropolitana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0336",
+        "txtDescricaoPrograma": "Operações Especiais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0337",
+        "txtDescricaoPrograma": "Promoção de Desenvolvimento Local",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0338",
+        "txtDescricaoPrograma": "Promoção de Acessibilidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0339",
+        "txtDescricaoPrograma": "Proteção ao Meio Ambiente e a Qualidade de Vida",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0340",
+        "txtDescricaoPrograma": "Sistema de Informação e Processamento de Dados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0341",
+        "txtDescricaoPrograma": "Fortalecimento Institucional e Melhoria da Gestão",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0342",
+        "txtDescricaoPrograma": "Reabilitação Social no Centro",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0343",
+        "txtDescricaoPrograma": "Assistência e Desenvolvimento Social à Família-Proteção Social Básica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0344",
+        "txtDescricaoPrograma": "Assistência à Pessoa em Situação de Risco-Proteção Social e Especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0345",
+        "txtDescricaoPrograma": "Mananciais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0346",
+        "txtDescricaoPrograma": "Regularização de Loteamentos Irregulares",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0347",
+        "txtDescricaoPrograma": "Revitalização de Empreendimentos Habitacionais (3R s)",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0348",
+        "txtDescricaoPrograma": "Produção de Soluções de Moradia",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0349",
+        "txtDescricaoPrograma": "Proteção Cidadã",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0350",
+        "txtDescricaoPrograma": "Promoção e Defesa dos Direitos Humanos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0351",
+        "txtDescricaoPrograma": "Gestão Tributária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0352",
+        "txtDescricaoPrograma": "Programa Municipal de Alimentação Escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0353",
+        "txtDescricaoPrograma": "Programa de Abastecimento à Comunidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0354",
+        "txtDescricaoPrograma": "Governo Eletrônico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0355",
+        "txtDescricaoPrograma": "Assistência Farmacêutica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "0356",
+        "txtDescricaoPrograma": "Programa Municipal de Parcerias Público-Privadas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1111",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - Integralidade da atenção",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1112",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - Fortalecimento de assistência a saúde",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1113",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - SUS com qualidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1114",
+        "txtDescricaoPrograma": "Acesso à saúde e qualidade no atendimento - Assistência farmacêutica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1121",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação infantil",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1122",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Ensino fundamental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1123",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação de jovens e adultos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1124",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação integrada",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1125",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Educação especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1126",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Ampliação do tempo de permanência do aluno",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1127",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Formação, Avaliação e Aprimoramento do Ensino",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1128",
+        "txtDescricaoPrograma": "Acesso à educação e qualidade do ensino - Alimentação escolar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1131",
+        "txtDescricaoPrograma": "Acesso à moradia - Urbanização de favelas",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1132",
+        "txtDescricaoPrograma": "Acesso à moradia - Regularização fundiária",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1133",
+        "txtDescricaoPrograma": "Acesso à moradia - Ações de habitação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1141",
+        "txtDescricaoPrograma": "Fortalecimento da rede de proteção social - Básica",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1142",
+        "txtDescricaoPrograma": "Fortalecimento da rede de proteção social - Especial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1143",
+        "txtDescricaoPrograma": "Fortalecimento da rede de proteção social - Assistência Geral",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1150",
+        "txtDescricaoPrograma": "Ampliação das políticas de inclusão para cidadãos com deficiência e mobilidade reduzida",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1160",
+        "txtDescricaoPrograma": "Defesa dos direitos humanos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1170",
+        "txtDescricaoPrograma": "Ampliação da proteção ao cidadão",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1210",
+        "txtDescricaoPrograma": "Cidade mais verde",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1220",
+        "txtDescricaoPrograma": "Preservação dos recursos hídricos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1230",
+        "txtDescricaoPrograma": "Melhoria da drenagem urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1240",
+        "txtDescricaoPrograma": "Gestão adequada dos resíduos sólidos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1250",
+        "txtDescricaoPrograma": "Redução das emissões de poluentes na atmosfera",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1261",
+        "txtDescricaoPrograma": "Melhoria da mobilidade urbana - Eficiência no trânsito",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1262",
+        "txtDescricaoPrograma": "Melhoria da mobilidade urbana - Transporte público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1263",
+        "txtDescricaoPrograma": "Melhoria da mobilidade urbana - Integração metropolitana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1270",
+        "txtDescricaoPrograma": "Ações de economia sustentável",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1280",
+        "txtDescricaoPrograma": "Incentivo à cultura de paz",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1310",
+        "txtDescricaoPrograma": "Fortalecimento/Requalificação do Centro - BID",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1320",
+        "txtDescricaoPrograma": "Incentivo à produção cultural e à interação criativa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1330",
+        "txtDescricaoPrograma": "Consolidação da cidade como marco nacional em esporte e lazer",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1340",
+        "txtDescricaoPrograma": "Afirmação da cidade como referência mundial em eventos e turismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1410",
+        "txtDescricaoPrograma": "Estímulo ao emprego e à qualificação dos trabalhadores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1420",
+        "txtDescricaoPrograma": "Incentivo ao empreendedorismo e ao ambiente de negócios",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1430",
+        "txtDescricaoPrograma": "Atração de novos parceiros e investimentos internacionais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1440",
+        "txtDescricaoPrograma": "Priorização de áreas estratégicas para a criação de empregos e negócios",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1450",
+        "txtDescricaoPrograma": "Promoção do desenvolvimento econômico e social da Zona Leste",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1460",
+        "txtDescricaoPrograma": "Aprimoramento da infraestrutura urbana",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1510",
+        "txtDescricaoPrograma": "Agilidade nos processos internos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1520",
+        "txtDescricaoPrograma": "Eficiência e transparência na gestão dos recursos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1530",
+        "txtDescricaoPrograma": "Qualidade da receita e da despesa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "1540",
+        "txtDescricaoPrograma": "Capacitação do funcionalismo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2110",
+        "txtDescricaoPrograma": "Melhoria da qualidade do ensino - Ensino Médio",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2120",
+        "txtDescricaoPrograma": "Melhoria da qualidade do ensino - Ensino Profissional",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2130",
+        "txtDescricaoPrograma": "Defesa Civil - Prevenção e Emergência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2140",
+        "txtDescricaoPrograma": "Serviço Funerário",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2210",
+        "txtDescricaoPrograma": "Gerenciamento do sistema de abastecimento",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2310",
+        "txtDescricaoPrograma": "Patrimônio histórico, artístico e arqueológico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2320",
+        "txtDescricaoPrograma": "Promoção de atividades culturais",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2610",
+        "txtDescricaoPrograma": "Suporte administrativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2620",
+        "txtDescricaoPrograma": "Sistema de informação e processamento de dados",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2710",
+        "txtDescricaoPrograma": "Processo Legislativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2810",
+        "txtDescricaoPrograma": "Controle Externo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2910",
+        "txtDescricaoPrograma": "Ile de France",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2920",
+        "txtDescricaoPrograma": "Divulgação Oficial",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2930",
+        "txtDescricaoPrograma": "Projeto de Inclusão Social Urbana - Nós do Centro/União Européia",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2940",
+        "txtDescricaoPrograma": "Previdência dos servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "2950",
+        "txtDescricaoPrograma": "Benefícios a servidores",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3001",
+        "txtDescricaoPrograma": "Acesso à Cultura",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3002",
+        "txtDescricaoPrograma": "Acesso à Moradia Adequada ",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3003",
+        "txtDescricaoPrograma": "Ações e Serviços da Saúde em Atenção Básica, Especialidades e Vigilância",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3004",
+        "txtDescricaoPrograma": "Benefícios e Previdência de Funcionários",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3005",
+        "txtDescricaoPrograma": "Promoção da Sustentabilidade Ambiental",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3006",
+        "txtDescricaoPrograma": "Promoção dos Direitos da Pessoa com Deficiência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3007",
+        "txtDescricaoPrograma": "Promoção dos Direitos da População Idosa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3008",
+        "txtDescricaoPrograma": "Gestão dos Riscos e Promoção da Resiliência a Desastres e Eventos Críticos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3009",
+        "txtDescricaoPrograma": "Melhoria da Mobilidade Urbana Universal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3010",
+        "txtDescricaoPrograma": "Manutenção, Desenvolvimento e Promoção da Qualidade da Educação",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3011",
+        "txtDescricaoPrograma": "Modernização Tecnológica, Desburocratização e Inovação do Serviço Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3012",
+        "txtDescricaoPrograma": "Participação, Transparência e Controle Social da Administração Pública",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3013",
+        "txtDescricaoPrograma": "Promoção da Segurança Urbana, Prevenção e Proteção às Vítimas de Violência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3014",
+        "txtDescricaoPrograma": "Processo Legislativo e Controle Externo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3015",
+        "txtDescricaoPrograma": "Promoção da Cidade como Referência Global e Destino Turístico",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3016",
+        "txtDescricaoPrograma": "Nutrição e Promoção da Segurança Alimentar",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3017",
+        "txtDescricaoPrograma": "Promoção de Atividades Esportivas, Recreativas e de Lazer",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3018",
+        "txtDescricaoPrograma": "Promoção da Cidadania, Inclusão Digital e Valorização da Diversidade",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3019",
+        "txtDescricaoPrograma": "Promoção do Crescimento Econômico e Geração de Postos de Trabalho e Oportunidades",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3020",
+        "txtDescricaoPrograma": "Promoção da Economia Criativa",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3021",
+        "txtDescricaoPrograma": "Qualidade, Eficiência e Sustentabilidade do Orçamento Público",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3022",
+        "txtDescricaoPrograma": "Requalificação e Promoção da Ocupação dos Espaços Públicos",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3023",
+        "txtDescricaoPrograma": "Proteção à População em Situação de Vulnerabilidade Social",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3024",
+        "txtDescricaoPrograma": "Suporte Administrativo",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3025",
+        "txtDescricaoPrograma": "Proteção e Desenvolvimento Integral na Primeira Infância",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3026",
+        "txtDescricaoPrograma": "Ações e Serviços da Saúde em Atenção Hospitalar e de Urgência e Emergência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "3027",
+        "txtDescricaoPrograma": "Ações e Serviços da Saúde Animal",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      },
+      {
+        "codPrograma": "9999",
+        "txtDescricaoPrograma": "Reserva de Contingência",
+        "modifiedMode": 5,
+        "usuarioOperacao": ""
+      }
+    ]
+  }
+]
