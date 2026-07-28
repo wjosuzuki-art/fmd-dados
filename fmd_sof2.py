@@ -51,6 +51,7 @@ import time
 import unicodedata
 from pathlib import Path
 from datetime import datetime
+import time
 
 import requests
 
@@ -119,6 +120,18 @@ REQUEST_DELAY_SECONDS = 0.25  # pausa entre chamadas, gentileza com a API
 MAX_RETRIES = 5
 RETRY_BACKOFF_BASE_SECONDS = 2
 
+# Timeout adaptativo por profundidade de pagina.
+# Endpoints paginados por OFFSET ficam progressivamente mais lentos quanto mais
+# fundo se pagina (o banco varre e descarta tudo que veio antes de chegar na
+# pagina pedida). Um timeout fixo de 30s funciona nas primeiras centenas de
+# paginas e falha de forma DETERMINISTICA lá pela 8000 -- foi exatamente o que
+# aconteceu no /CompromissosPagar. Aqui o timeout cresce com a profundidade.
+REQUEST_TIMEOUT_MAX_SECONDS = 240
+REQUEST_TIMEOUT_EXTRA_POR_1000_PAG = 20
+
+# A cada N paginas, imprime progresso -- essencial para acompanhar coleta longa.
+PROGRESSO_A_CADA_N_PAGINAS = 250
+
 # Regras de filtro textual para receita do FMD (ver discussão: evitamos usar
 # "fundo" E "municipal" E "desenvolvimento" soltos porque isso pegaria fundos
 # irmãos como "Fundo Municipal de Desenvolvimento Urbano/Rural/Cultura" etc.)
@@ -140,6 +153,15 @@ def normalizar_texto(txt):
     return " ".join(txt.split())
 
 
+# IDs longos (processo administrativo, empenho) viram notacao cientifica se o
+# Excel/pandas os ler como numero -- e ai PERDEM DIGITOS de verdade. Forcar a
+# texto no CSV evita isso.
+CAMPOS_FORCAR_TEXTO = {
+    "processoLiquidacao", "codProcesso", "codEmpenho", "codLiquidacao",
+    "numeroEmpenho", "numOriginalContrato", "numCpfCnpj",
+}
+
+
 def achatar_registro(registro):
     """
     Prepara um registro (dict vindo da API) para virar linha de CSV.
@@ -150,6 +172,8 @@ def achatar_registro(registro):
     for chave, valor in registro.items():
         if isinstance(valor, (list, dict)):
             achatado[chave] = json.dumps(valor, ensure_ascii=False)
+        elif chave in CAMPOS_FORCAR_TEXTO and valor is not None:
+            achatado[chave] = str(valor)
         else:
             achatado[chave] = valor
     return achatado
@@ -186,6 +210,12 @@ def _checkpoint_path(endpoint: str, params: dict, pagina: int) -> Path:
     return CHECKPOINT_DIR / nome
 
 
+def _timeout_para_pagina(pagina: int) -> int:
+    """Timeout que cresce com a profundidade da pagina (ver comentario nas constantes)."""
+    extra = (pagina / 1000.0) * REQUEST_TIMEOUT_EXTRA_POR_1000_PAG
+    return int(min(REQUEST_TIMEOUT_SECONDS + extra, REQUEST_TIMEOUT_MAX_SECONDS))
+
+
 def _requisitar_pagina(endpoint: str, params: dict, pagina: int) -> dict:
     """Faz 1 requisição GET com retry/backoff, usando checkpoint em disco."""
     caminho_cp = _checkpoint_path(endpoint, params, pagina)
@@ -204,8 +234,9 @@ def _requisitar_pagina(endpoint: str, params: dict, pagina: int) -> dict:
                 url,
                 headers=montar_headers(),
                 params=params_completos,
-                timeout=REQUEST_TIMEOUT_SECONDS,
+                timeout=_timeout_para_pagina(pagina),
             )
+            
             if resposta.status_code == 401 or resposta.status_code == 403:
                 raise RuntimeError(
                     f"Erro de autenticação ({resposta.status_code}) em {url}. "
@@ -234,10 +265,16 @@ def _requisitar_pagina(endpoint: str, params: dict, pagina: int) -> dict:
 
 
 def coletar_paginado(endpoint: str, params: dict, chave_lista: str,
-                      max_paginas_teste=2) -> list:
+                      max_paginas_teste=2, tolerante=False, falhas=None) -> list:
     """
     Pagina um endpoint até acabar (metaDados.qtdPaginas, ou lista vazia).
     Retorna a lista combinada de todos os registros.
+
+    tolerante=True: se UMA pagina falhar depois de todos os retries, registra a
+    falha em `falhas` e SEGUE para a proxima, em vez de derrubar a coleta inteira.
+    Numa varredura de ~9000 paginas, uma pagina ruim nao pode custar as outras
+    8999. Como cada pagina boa fica em checkpoint, rodar de novo depois tenta
+    somente as que falharam.
     """
     # Status que a API devolve legitimamente para "sem dados nesse filtro/mês"
     # -- não é erro, é comum em /movimentosReceita quando consultamos código a
@@ -246,19 +283,43 @@ def coletar_paginado(endpoint: str, params: dict, chave_lista: str,
                               "NÃO ENCONTRADO"}
     todos = []
     pagina = 1
+    qtd_paginas = None
     while True:
-        dados = _requisitar_pagina(endpoint, params, pagina)
+        try:
+            dados = _requisitar_pagina(endpoint, params, pagina)
+        except RuntimeError:
+            # Sem qtd_paginas conhecido ainda nao da para saber onde a coleta
+            # termina, entao pular seria as cegas -> propaga o erro.
+            if not tolerante or qtd_paginas is None:
+                raise
+            print(f"  [PULANDO] {endpoint} pag {pagina}/{qtd_paginas} nao respondeu "
+                  f"-- registrada e seguindo adiante")
+            if falhas is not None:
+                registro_falha = dict(params)
+                registro_falha["_endpoint"] = endpoint
+                registro_falha["_pagina"] = pagina
+                falhas.append(registro_falha)
+            if pagina >= qtd_paginas:
+                break
+            pagina += 1
+            continue
+
         meta = dados.get("metaDados", {})
         status = (meta.get("txtStatus") or "").strip()
         if status not in ("", "OK") and status.upper() not in status_vazio_esperado:
             print(f"  [aviso] status inesperado em {endpoint} pag {pagina}: "
                   f"{meta.get('txtStatus')} / {meta.get('txtMensagemErro')}")
+        if meta.get("qtdPaginas") is not None:
+            qtd_paginas = meta.get("qtdPaginas")
         registros = dados.get(chave_lista, [])
         if not registros:
             break
         todos.extend(registros)
 
-        qtd_paginas = meta.get("qtdPaginas")
+        if pagina % PROGRESSO_A_CADA_N_PAGINAS == 0:
+            print(f"    ... {endpoint} pag {pagina}"
+                  f"{'/' + str(qtd_paginas) if qtd_paginas else ''} "
+                  f"({len(todos)} registros ate agora)")
         if qtd_paginas is not None and pagina >= qtd_paginas:
             break
         if MODO_TESTE and pagina >= max_paginas_teste:
@@ -359,10 +420,13 @@ def coletar_liquidacoes(cod_empenho, ano_empenho, cod_empresa) -> list:
     return coletar_paginado("/liquidacoes", params, "lstLiquidacoes")
 
 
-def coletar_compromissos_pagar(ano_empenho: int) -> list:
+def coletar_compromissos_pagar(ano_empenho: int, falhas=None) -> list:
     # ATENÇÃO: não filtra por órgão -- traz a cidade inteira. Só usar sob demanda.
+    # tolerante=True: paginas profundas desse endpoint dao timeout de forma
+    # previsivel; pular a pagina ruim e seguir vale muito mais que abortar.
     params = {"anoEmpenho": ano_empenho}
-    return coletar_paginado("/CompromissosPagar", params, "lstCompromisso")
+    return coletar_paginado("/CompromissosPagar", params, "lstCompromisso",
+                            tolerante=True, falhas=falhas)
 
 
 # =====================================================================================
@@ -523,7 +587,16 @@ def rodar_frente_despesa():
             if cod_empenho is None or ano_empenho is None or cod_empresa is None:
                 continue
             registros = coletar_liquidacoes(cod_empenho, ano_empenho, cod_empresa)
-            liquidacoes_todas.extend(registros)
+            # A API de /liquidacoes nao devolve o empenho de origem: quem sabe
+            # de qual empenho a liquidacao veio e' QUEM PERGUNTOU. Sem gravar
+            # isso aqui, o CSV vira um extrato sem numero de conta -- da para
+            # somar, mas nao para ligar a liquidacao ao objeto da compra.
+            for r in registros:
+                r = dict(r)
+                r["codEmpenho_consulta"] = cod_empenho
+                r["anoEmpenho_consulta"] = ano_empenho
+                r["codEmpresa_consulta"] = cod_empresa
+                liquidacoes_todas.append(r)
         salvar_csv(liquidacoes_todas, DETALHE_DIR / "liquidacoes_fmd.csv")
 
     if RODAR_COMPROMISSOS_PAGAR:
@@ -534,13 +607,35 @@ def rodar_frente_despesa():
             for e in todos_empenhos
         }
         compromissos_fmd = []
+        falhas_paginas = []
+        anos_com_problema = []
         for ano in ANOS:
-            todos_do_ano = coletar_compromissos_pagar(ano)
-            for c in todos_do_ano:
-                chave = (c.get("numeroEmpenho"), c.get("anoEmpenho"))
-                if chave in numeros_empenho_fmd:
-                    compromissos_fmd.append(c)
+            print(f"\n[CompromissosPagar] ano={ano}")
+            try:
+                todos_do_ano = coletar_compromissos_pagar(ano, falhas=falhas_paginas)
+            except RuntimeError as erro:
+                # Falha logo na pagina 1 (nem da para saber quantas paginas tem):
+                # registra o ano e segue -- um ano ruim nao pode matar os outros.
+                print(f"  [FALHOU ano {ano}] {erro}")
+                print(f"  [seguindo para o proximo ano]")
+                anos_com_problema.append(ano)
+                continue
+            do_fmd = [c for c in todos_do_ano
+                      if (c.get("numeroEmpenho"), c.get("anoEmpenho")) in numeros_empenho_fmd]
+            # Salva ano a ano: se o processo cair depois, o que ja foi filtrado
+            # continua em disco (antes so salvava no fim dos 8 anos).
+            salvar_csv(do_fmd, DETALHE_DIR / f"compromissosPagar_fmd_{ano}.csv")
+            compromissos_fmd.extend(do_fmd)
         salvar_csv(compromissos_fmd, DETALHE_DIR / "compromissosPagar_fmd.csv")
+        if falhas_paginas:
+            salvar_csv(falhas_paginas,
+                       DETALHE_DIR / "compromissosPagar_paginas_falhas.csv")
+            print(f"  [!] {len(falhas_paginas)} paginas nao responderam. Elas estao "
+                  f"listadas no CSV acima.")
+            print(f"  [!] Rodar o script de novo tenta SO essas paginas: todo o "
+                  f"resto vem do checkpoint em disco.")
+        if anos_com_problema:
+            print(f"  [!] Anos que falharam logo de cara: {anos_com_problema}")
 
 
 def main():
